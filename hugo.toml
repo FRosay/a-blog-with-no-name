@@ -1,0 +1,77 @@
+# This is a simple configuration.
+# If you want to see the full configuration, please check `full-config.toml` .
+# And see https://gohugo.io/getting-started/configuration/ .
+
+baseURL = "http://localhost:1313/"
+title = "The Rattlin' Blog"
+enableRobotsTXT = true
+enableEmoji = true
+theme = "jane"
+
+hasCJKLanguage = false     # has chinese/japanese/korean ?
+rssLimit = 20             # Limit Entry Count to Rss file
+disqusShortname = ""      # disqus_shortname
+copyright = ""            # default: params.author.name ↓
+
+[pagination]
+  pagerSize = 5           # Number of articles displayed on the homepage
+
+# language support # en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "en"
+[languages.en]
+  languageCode = "en"
+
+[sitemap]                 # essential
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[[menu.main]]             # config your menu
+  name = "Accueil"
+  weight = 10
+  identifier = "home"
+  pageref = "/"
+[[menu.main]]
+  name = "Posts"
+  weight = 20
+  identifier = "archives"
+  pageref = "/posts/"
+[[menu.main]]
+  name = "Tags"
+  weight = 30
+  identifier = "tags"
+  pageref = "/tags/"
+
+[params]
+  since = "2025"            # Site creation time
+  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
+  rssFullContent = true     # if false, Rss feed instead of the summary
+
+  author.name = "F. Rosay"      # essential
+  author.email = "me@example.com" # optional, for RSS
+  author.url = "/about"        # optional
+
+  # site info (optional)
+  logoTitle = "The Rattlin' Blog"
+  keywords = ["Blog", "personal", "development"]
+  description = "A personal blog about whatever goes through my mind."
+
+  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  dateFormatToUse = "2006-01-02"
+
+  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
+  toc = true
+  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe
+  contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
+
+  # Link custom CSS and JS assets
+  # (relative to /static/css and /static/js respectively)
+  customCSS = []
+  customJS = []
+
+  [params.social]
+    a-email = "mailto:your@email.com"
+    e-linkedin = "http://localhost:1313"
+    g-github = "http://localhost:1313"
+    p-coding = "http://localhost:1313"
+    s-mastodon = "http://localhost:1313"
