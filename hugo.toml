@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "http://localhost:1313/"
-title = "The Rattlin' Blog"
+title = "A Blog With No Name"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
