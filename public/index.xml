@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Custom home page on The Rattlin&#39; Blog</title>
+    <title>Custom home page on A Blog With No Name</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Custom home page on The Rattlin&#39; Blog</description>
+    <description>Recent content in Custom home page on A Blog With No Name</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>me@example.com (F. Rosay)</managingEditor>
     <webMaster>me@example.com (F. Rosay)</webMaster>
+    <lastBuildDate>Mon, 28 Oct 2024 22:40:25 +0100</lastBuildDate>
     
         <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     

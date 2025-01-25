@@ -6,62 +6,86 @@ baseURL = "http://localhost:1313/"
 title = "A Blog With No Name"
 enableRobotsTXT = true
 enableEmoji = true
-theme = "jane"
+theme = "PaperMod"
 
 hasCJKLanguage = false     # has chinese/japanese/korean ?
 rssLimit = 20             # Limit Entry Count to Rss file
 disqusShortname = ""      # disqus_shortname
 copyright = ""            # default: params.author.name ↓
 
+# language support # en / zh-cn / other... translations present in i18n/
+defaultContentLanguage = "fr"
+defaultContentLanguageInSubdir  = true
+
 [pagination]
   pagerSize = 5           # Number of articles displayed on the homepage
 
-# language support # en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "en"
+[languages.fr]
+  contentDir = 'content/fr'
+  disabled = false
+  languageCode = 'fr'
+  languageDirection = 'ltr'
+  languageName = 'Français'
+  title = 'A Blog With No Name'
+  weight = 1
+  [languages.fr.menus]
+    [[languages.fr.menus.main]]
+      name = 'Accueil'
+      pageRef = '/'
+      weight = 10
+    [[languages.fr.menus.main]]
+      name = 'Posts'
+      pageRef = '/posts'
+      weight = 20
+    [[languages.fr.menus.main]]
+      name = 'Tags'
+      pageRef = '/tags'
+      weight = 30
+
 [languages.en]
-  languageCode = "en"
+  contentDir = 'content/en'
+  disabled = false
+  languageCode = 'en'
+  languageDirection = 'ltr'
+  languageName = 'English'
+  title = 'A Blog With No Name'
+  weight = 2
+  [languages.en.menus]
+    [[languages.en.menus.main]]
+      name = 'Home'
+      pageRef = '/'
+      weight = 10
+    [[languages.en.menus.main]]
+      name = 'Posts'
+      pageRef = '/posts'
+      weight = 20
+    [[languages.en.menus.main]]
+      name = 'Tags'
+      pageRef = '/tags'
+      weight = 30
 
 [sitemap]                 # essential
   changefreq = "weekly"
   priority = 0.5
   filename = "sitemap.xml"
 
-[[menu.main]]             # config your menu
-  name = "Accueil"
-  weight = 10
-  identifier = "home"
-  pageref = "/"
-[[menu.main]]
-  name = "Posts"
-  weight = 20
-  identifier = "archives"
-  pageref = "/posts/"
-[[menu.main]]
-  name = "Tags"
-  weight = 30
-  identifier = "tags"
-  pageref = "/tags/"
+[minify]
+  disableXML = true
+  minifyOutput = true
 
 [params]
-  since = "2025"            # Site creation time
-  homeFullContent = false   # if false, show post summaries on home page. Otherwise show full content.
-  rssFullContent = true     # if false, Rss feed instead of the summary
-
-  author.name = "F. Rosay"      # essential
-  author.email = "me@example.com" # optional, for RSS
-  author.url = "/about"        # optional
-
-  # site info (optional)
-  logoTitle = "The Rattlin' Blog"
-  keywords = ["Blog", "personal", "development"]
+  author = "Félix"
+  since = "2025"
+  comments = false
+  ShowReadingTime = true
+  ShowWordCount = true
+  UseHugoToc = true
+  showtoc = false
+  logoTitle = "A Blog With No Name"
+  keywords = ["Blog", "personal", "development", "digital garden"]
   description = "A personal blog about whatever goes through my mind."
-
-  # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
+  showMenuLanguageChooser = true
   dateFormatToUse = "2006-01-02"
-
-  # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
-  toc = true
-  photoswipe = true         # see https://github.com/dimsemenov/PhotoSwipe
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Link custom CSS and JS assets
@@ -69,9 +93,18 @@ defaultContentLanguage = "en"
   customCSS = []
   customJS = []
 
-  [params.social]
-    a-email = "mailto:your@email.com"
-    e-linkedin = "http://localhost:1313"
-    g-github = "http://localhost:1313"
-    p-coding = "http://localhost:1313"
-    s-mastodon = "http://localhost:1313"
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/FRosay"
+
+  [[params.socialIcons]]
+      name = "itchio"
+      url = "https://kiwi-productions.itch.io/"
+
+  [[params.socialIcons]]
+      name = "rss"
+      url = "http://localhost:1313/"

@@ -1,7 +1,7 @@
 +++
 title = 'Introduction - Why I wrote a blog (and why you should too!)'
 date = '2024-10-28T22:40:25+01:00'
-draft = true
+draft = false
 +++
 
 Welcome, welcome! Out of the more than 1.1 billion existing websites, you chose to spend your precious time on this shoddy little part of the Web. It makes me feel honoured, proud, but honestly also a bit worried too. I hope you’ll like it here: although there’s not much at the moment, I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be.
