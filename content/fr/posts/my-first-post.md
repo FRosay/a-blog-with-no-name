@@ -1,27 +1,24 @@
 +++
-title = 'Introduction - Why I wrote a blog (and why you should too!)'
-date = '2024-10-28T22:40:25+01:00'
-draft = false
+title = "[Brouillon] Pourquoi j'ai écrit un blog (et pourquoi vous devriez peut-être essayer aussi !)"
+date = '2025-01-25T10:40:25+01:00'
 +++
 
-Welcome, welcome! Out of the more than 1.1 billion existing websites, you chose to spend your precious time on this shoddy little part of the Web. It makes me feel honoured, proud, but honestly also a bit worried too. I hope you’ll like it here: although there’s not much at the moment, I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be.
+Je n'y connais rien aux blogs, au fait de blogguer ou d'être un bloggeur, en tout cas pas plus que les autres millenials qui sont aussi des natifs digitaux. Je n'ai même pour ainsi dire jamais posté sur les réseaux sociaux. Pire encore, j'ai déjà quelques (douzaines) d'idées ou d'embryons de projets qui prennent une place non négligeable de mon espace mental (et parfois physique). Pourtant, me voilà à ajouter un nouveau projet - public, qui plus est ! - à la pile. Alors pourquoi ? Pourquoi m'infliger cela et prétendre que d'autres devraient aussi tenter l'expérience ?
 
-I know nothing about blogs, blogging or being a blogger, at least nothing more than expected from a digital native. I’ve also barely ever posted on social media and have a few (dozen) projects already taking up my mental (and sometimes physical) space, but here I am adding one more to the pile - and this time it’s even public! So… why? Why am I doing this and pretending that you should too?
+Eh bien tout d'abord, merci de vous poser la question ! Puisque vous êtes curieux.ses, laissez-moi tout bêtement vous lister quelques raisons (la 3ème va vous étonner, tout ça) qui m'ont, personnellement, donné envie de lancer ce blog :
 
-Well, since you’re curious - don’t be shy, I know you are! -, let me just list some of the reasons why I, at least, started a blog:
+## 1 : C'est *fun* !
 
-## 1: It’s fun!
+Regardez-moi droit dans les yeux, et affirmez sans trembler que vous n'avez jamais eu envie de parler des heures d'un sujet si spécifique que votre entourage ne pourrait même pas faire semblant d'être intéressé. Et si ce n'est pas le cas, remplacez "parler des heures d'un sujet spécifique" par "râler des heures sur n'importe quoi/qui" : vous avez forcément eu cette envie, non ? Eh bien avec un blog, plus besoin de trouver à qui parler de vos intérêts de niche ou de vos colères ; plus besoin de vous retenir de crier pour qu'on vous écoute ; vous pouvez tout laisser sortir, comme vous voulez, quand vous voulez.
 
-Have you ever wanted to randomly ramble for hours on end about subjects so specific that no-one around you even pretends to care? Or if you’re not prone to rambles, how about rants? Surely you must rant on a regular basis, like I can only assume most people do? Well then it just gets better to let it all out, screaming into the void, so to say.
+Imaginez seulement tout ce que vous pourriez écrire : tout ce que vous voulez. Personne ne peut vous arrêter. Personne ne peut même savoir que c'est vous si vous restez anonyme. Allez, c'est le moment d'écrire cet article de 100.000 mots sur l'amour inconditionnel que vous avez pour votre chat !
 
-I mean, just imagine what you could be writing: absolutely anything you want. No-one can stop you. No-one can even know it’s you. Now go write that 100.000-words essay about your unabated love for your cat! 
+## 2 : C'est gratuit !
 
-## 2: It’s free (digital) real estate!
+Il y a tellement de moyens gratuits de lancer son blog de nos jours que la partie la plus difficile est devenue celle où il faut choisir l'un de ces moyens.
 
-There are so many free and easy ways to get your blog up and running these days that the most difficult part is actually choosing the one you’re going to use.
+Mon petit ego-trip personnel est construit avec [Hugo](https://gohugo.io) (et le thème [PaperMod](https://github.com/adityatelange/hugo-PaperMod)) et hébergé pour l'instant sur [GitHub Pages](https://pages.github.com/), le nombre de choix à disposition est proprement absurde. C'est-à-dire que ce choix va des petits projets open-source à but non lucratif jusqu'aux plus grandes entreprises sur Terre : impossible de faire plus large !
 
-While this particular ego-trip of mine is built with Hugo and hosted on [HOST_UNDEFINED], you truly have an absurd amount of choices. It ranges from small non-profits offering open-source hosting solutions to literally the biggest companies on Earth: pick your poison!
+## 3 : C'est un bon moyen d'envoyer votre syndrome de l'imposteur se faire voir
 
-## 3: It’s a nice way to give your impostor syndrome the finger
-
-“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat. Seriously, think about it
+"Tout le monde s'en fout de ce que je pense" peut devenir "Tout le monde s'en fout, mais moi aussi !". Et "Je n'ai rien d'intéressant à dire" peut devenir un article de 5000 mots sur votre chat et l'amour que vous lui portez.

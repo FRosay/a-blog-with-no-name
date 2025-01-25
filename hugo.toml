@@ -14,7 +14,7 @@ disqusShortname = ""      # disqus_shortname
 copyright = ""            # default: params.author.name ↓
 
 # language support # en / zh-cn / other... translations present in i18n/
-defaultContentLanguage = "fr"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir  = true
 
 [pagination]
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir  = true
   disabled = false
   languageCode = 'fr'
   languageDirection = 'ltr'
-  languageName = 'Français'
+  languageName = ':fr:'
   title = 'A Blog With No Name'
   weight = 1
   [languages.fr.menus]
@@ -41,13 +41,22 @@ defaultContentLanguageInSubdir  = true
       name = 'Tags'
       pageRef = '/tags'
       weight = 30
+  [languages.fr.params.homeInfoParams]
+    title = "Bienvenue !"
+    content = """\
+    Il existe aujourd'hui plus d'1,1 milliards de sites internets, et vous avez pourtant fait le choix \
+    de passer un peu de votre précieux temps sur celui-ci en particulier. \r J'en suis honoré, fier, mais aussi, \
+    pour être honnête, un peu inquiet. J'espère que vous apprécierez tout de même l'endroit : s'il est assez vide \
+    pour le moment, je prévois vraiment d'en faire un lieu aussi *cosy* et accueillant qu'un blog - ou un \
+    *jardin digital*, puisque c'est à la mode - peut l'être.\
+    """
 
 [languages.en]
   contentDir = 'content/en'
   disabled = false
   languageCode = 'en'
   languageDirection = 'ltr'
-  languageName = 'English'
+  languageName = ':en:'
   title = 'A Blog With No Name'
   weight = 2
   [languages.en.menus]
@@ -63,6 +72,13 @@ defaultContentLanguageInSubdir  = true
       name = 'Tags'
       pageRef = '/tags'
       weight = 30
+  [languages.en.params.homeInfoParams]
+    title = "Welcome!"
+    content = """\
+    Out of the more than 1.1 billion existing websites, you chose to spend your precious time on this shoddy little part of the Web. \
+    It makes me feel honoured, proud, but honestly also a bit worried too. I hope you’ll like it here: although there’s not much at the moment, \
+    I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be. \
+    """
 
 [sitemap]                 # essential
   changefreq = "weekly"
@@ -74,28 +90,25 @@ defaultContentLanguageInSubdir  = true
   minifyOutput = true
 
 [params]
+  env = "production"
   author = "Félix"
   since = "2025"
+  defaultTheme = "auto"
   comments = false
-  ShowReadingTime = true
-  ShowWordCount = true
-  UseHugoToc = true
+  showReadingTime = true
+  showWordCount = true
+  useHugoToc = true
   showtoc = false
   logoTitle = "A Blog With No Name"
   keywords = ["Blog", "personal", "development", "digital garden"]
   description = "A personal blog about whatever goes through my mind."
-  showMenuLanguageChooser = true
-  dateFormatToUse = "2006-01-02"
+  dateFormat = "02 January 2006"
   contentCopyright = '<a rel="license noopener" href="https://creativecommons.org/licenses/by-nc-nd/4.0/" target="_blank">CC BY-NC-ND 4.0</a>'
 
   # Link custom CSS and JS assets
   # (relative to /static/css and /static/js respectively)
   customCSS = []
   customJS = []
-
-  [params.homeInfoParams]
-    Title = "Hi there 👋"
-    Content = "Welcome to my blog"
 
   [[params.socialIcons]]
     name = "github"

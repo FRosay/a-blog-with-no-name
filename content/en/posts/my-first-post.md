@@ -1,10 +1,7 @@
 +++
-title = 'Introduction - Why I wrote a blog (and why you should too!)'
-date = '2024-10-28T22:40:25+01:00'
-draft = false
+title = '[Draft] Why I wrote a blog (and why maybe you should too!)'
+date = '2025-01-25T10:40:25+01:00'
 +++
-
-Welcome, welcome! Out of the more than 1.1 billion existing websites, you chose to spend your precious time on this shoddy little part of the Web. It makes me feel honoured, proud, but honestly also a bit worried too. I hope you’ll like it here: although there’s not much at the moment, I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be.
 
 I know nothing about blogs, blogging or being a blogger, at least nothing more than expected from a digital native. I’ve also barely ever posted on social media and have a few (dozen) projects already taking up my mental (and sometimes physical) space, but here I am adding one more to the pile - and this time it’s even public! So… why? Why am I doing this and pretending that you should too?
 
@@ -24,4 +21,4 @@ While this particular ego-trip of mine is built with Hugo and hosted on [HOST_UN
 
 ## 3: It’s a nice way to give your impostor syndrome the finger
 
-“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat. Seriously, think about it
+“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat.
