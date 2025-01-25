@@ -2,20 +2,20 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://localhost:1313/"
+#baseURL = "http://localhost:1313/"
 title = "A Blog With No Name"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "PaperMod"
 
+enableInlineShortcodes = true
 hasCJKLanguage = false     # has chinese/japanese/korean ?
 rssLimit = 20             # Limit Entry Count to Rss file
-disqusShortname = ""      # disqus_shortname
 copyright = ""            # default: params.author.name ↓
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"
-defaultContentLanguageInSubdir  = true
+defaultContentLanguageInSubdir = false
 
 [pagination]
   pagerSize = 5           # Number of articles displayed on the homepage
@@ -25,7 +25,7 @@ defaultContentLanguageInSubdir  = true
   disabled = false
   languageCode = 'fr'
   languageDirection = 'ltr'
-  languageName = ':fr:'
+  languageName = ":fr:"
   title = 'A Blog With No Name'
   weight = 1
   [languages.fr.menus]
@@ -56,7 +56,7 @@ defaultContentLanguageInSubdir  = true
   disabled = false
   languageCode = 'en'
   languageDirection = 'ltr'
-  languageName = ':en:'
+  languageName = ":en:"
   title = 'A Blog With No Name'
   weight = 2
   [languages.en.menus]
