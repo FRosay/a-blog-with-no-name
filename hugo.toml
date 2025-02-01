@@ -32,10 +32,18 @@ defaultContentLanguageInSubdir = false
       name = 'Posts'
       pageRef = '/posts'
       weight = 20
+    #[[languages.fr.menus.main]]
+    #  name = 'Tags'
+    #  pageRef = '/tags'
+    #  weight = 30
     [[languages.fr.menus.main]]
-      name = 'Tags'
-      pageRef = '/tags'
-      weight = 30
+      name = "Idées d'articles"
+      pageRef = '/ideas'
+      weight = 40
+    [[languages.fr.menus.main]]
+      name = '101 projets pour ce blog'
+      pageRef = '/projects'
+      weight = 50
   [languages.fr.params.homeInfoParams]
     title = "Bienvenue !"
     content = """\
@@ -63,10 +71,18 @@ defaultContentLanguageInSubdir = false
       name = 'Posts'
       pageRef = '/posts'
       weight = 20
+    #[[languages.en.menus.main]]
+    #  name = 'Tags'
+    #  pageRef = '/tags'
+    #  weight = 30
     [[languages.en.menus.main]]
-      name = 'Tags'
-      pageRef = '/tags'
-      weight = 30
+      name = 'Article ideas'
+      pageRef = '/ideas'
+      weight = 40
+    [[languages.en.menus.main]]
+      name = '101 projects for this blog'
+      pageRef = '/projects'
+      weight = 50
   [languages.en.params.homeInfoParams]
     title = "Welcome!"
     content = """\
@@ -113,6 +129,6 @@ defaultContentLanguageInSubdir = false
       name = "itchio"
       url = "https://kiwi-productions.itch.io/"
 
-  [[params.socialIcons]]
-      name = "rss"
-      url = "http://localhost:1313/"
+  #[[params.socialIcons]]
+  #    name = "rss"
+  #    url = "http://localhost:1313/"
