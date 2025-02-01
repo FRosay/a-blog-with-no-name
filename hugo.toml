@@ -1,7 +1,3 @@
-# This is a simple configuration.
-# If you want to see the full configuration, please check `full-config.toml` .
-# And see https://gohugo.io/getting-started/configuration/ .
-
 #baseURL = "http://localhost:1313/"
 title = "A Blog With No Name"
 enableRobotsTXT = true
@@ -9,11 +5,10 @@ enableEmoji = true
 theme = "PaperMod"
 
 enableInlineShortcodes = true
-hasCJKLanguage = false     # has chinese/japanese/korean ?
 rssLimit = 20             # Limit Entry Count to Rss file
 copyright = ""            # default: params.author.name ↓
 
-# language support # en / zh-cn / other... translations present in i18n/
+# language support
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -76,7 +71,7 @@ defaultContentLanguageInSubdir = false
     title = "Welcome!"
     content = """\
     Out of the more than 1.1 billion existing websites, you chose to spend your precious time on this shoddy little part of the Web. \
-    It makes me feel honoured, proud, but honestly also a bit worried too. I hope you’ll like it here: although there’s not much at the moment, \
+    It makes me feel honoured, proud, but honestly also a bit worried too. I hope you'll like it here: although there's not much at the moment, \
     I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be. \
     """
 
