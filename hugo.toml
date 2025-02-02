@@ -44,6 +44,10 @@ defaultContentLanguageInSubdir = false
       name = '101 projets pour ce blog'
       pageRef = '/projects'
       weight = 50
+    [[languages.fr.menus.main]]
+      name = 'A propos'
+      pageRef = '/about'
+      weight = 60
   [languages.fr.params.homeInfoParams]
     title = "Bienvenue !"
     content = """\
@@ -83,6 +87,10 @@ defaultContentLanguageInSubdir = false
       name = '101 projects for this blog'
       pageRef = '/projects'
       weight = 50
+    [[languages.en.menus.main]]
+      name = 'About'
+      pageRef = '/about'
+      weight = 60
   [languages.en.params.homeInfoParams]
     title = "Welcome!"
     content = """\
@@ -99,6 +107,12 @@ defaultContentLanguageInSubdir = false
 [minify]
   disableXML = true
   minifyOutput = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [goldmark]
+    [Extensions]
+      footnote = true
 
 [params]
   env = "production"

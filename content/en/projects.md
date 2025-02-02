@@ -18,8 +18,8 @@ date = '2025-02-01'
 - [ ] Have the translation toggle button be a flag instead of country code
 - [ ] Create a button to apply a random theme to the site
 - [ ] Get a nice RSS feed working
-- [ ]
-- [ ]
+- [ ] Have an 8-bit pirate theme that plays the [Wellerman Chiptune](https://www.youtube.com/watch?v=VORvYm1ggoM) from The Longest Johns (check them out!)
+- [ ] Make a [less-than-1kB website](https://1kb.club/) that redirects to the main blog
 - [ ]
 - [ ]
 - [ ]

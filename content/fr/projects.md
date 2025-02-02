@@ -18,8 +18,8 @@ date = '2025-02-01'
 - [ ] Changer le bouton de traduction pour en faire un drapeau au lieu du code du pays
 - [ ] Créer un bouton qui appliquerait un thème aléatoire à l'entièreté du site
 - [ ] Faire fonctionner le flux RSS
-- [ ]
-- [ ]
+- [ ] Créer un thème "pirate 8-bit" qui joue la [version Chiptune de Wellerman](https://www.youtube.com/watch?v=VORvYm1ggoM) de The Longest Johns (allez les découvrir !)
+- [ ] Faire un site de [moins d'un kB](https://1kb.club/) qui redirige sur ce blog
 - [ ]
 - [ ]
 - [ ]
