@@ -12,4 +12,4 @@ The list of what I love or like would be way too long, but includes my wife, my 
 That's it. I might revisit this one day, but until then it'll have to do!  
 
 [^mess]: It may not look like a mess from the outside, but believe me: it is.
-[^joke]: I mean before I cut it I *was* the only guy with long hair back then, so I should have seen that coming.
+[^joke]: I mean, before I cut it I *was* the only guy with long hair back then, so I could have seen it coming.

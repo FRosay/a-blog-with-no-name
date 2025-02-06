@@ -1,6 +1,6 @@
 ---
-title: Custom home page
-layout: custom_home  # use custom home layout
+title: Accueil
+layout: custom_home
 
 introductionWidget:
   title: Bienvenue !
