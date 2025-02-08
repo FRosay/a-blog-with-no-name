@@ -1,6 +1,5 @@
 #baseURL = "http://localhost:1313/"
 title = "A Blog With No Name"
-baseURL = "http://frosay.github.io"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "PaperMod"
@@ -69,7 +68,7 @@ defaultContentLanguageInSubdir = false
 
   [[languages.fr.params.socialIcons]]
     name = "rss"
-    url = "http://localhost:1313/fr/posts/index.xml"
+    url = "https://frosay.github.io/a-blog-with-no-name/fr/posts/index.xml"
 
 [languages.en]
   contentDir = 'content/en'
@@ -122,7 +121,7 @@ defaultContentLanguageInSubdir = false
 
   [[languages.en.params.socialIcons]]
     name = "rss"
-    url = "http://localhost:1313/posts/index.xml"
+    url = "https://frosay.github.io/a-blog-with-no-name/posts/index.xml"
 
 [sitemap]                 # essential
   changefreq = "weekly"
