@@ -1,5 +1,5 @@
 +++
-title = "[Brouillon] Pourquoi j'ai écrit un blog (et pourquoi vous devriez peut-être essayer aussi !)"
+title = "Pourquoi j'ai écrit un blog (et pourquoi vous devriez peut-être essayer aussi !)"
 date = '2025-01-25T10:40:25+01:00'
 +++
 
@@ -21,4 +21,12 @@ Mon petit ego-trip personnel est construit avec [Hugo](https://gohugo.io) (et le
 
 ## 3 : C'est un bon moyen d'envoyer votre syndrome de l'imposteur se faire voir
 
-"Tout le monde s'en fout de ce que je pense" peut devenir "Tout le monde s'en fout, mais moi aussi !". Et "Je n'ai rien d'intéressant à dire" peut devenir un article de 5000 mots sur votre chat et l'amour que vous lui portez.
+"Tout le monde s'en fout de ce que je pense" peut devenir "Tout le monde s'en fout, mais moi aussi !". Et "Je n'ai rien d'intéressant à dire" peut devenir un article de 5000 mots sur votre chat et l'amour que vous lui portez. Et si les gens vous lisent quand même, ce sera un quand même un peu de leur faute.
+
+Alors je sais, je sais : ça n'est souvent pas aussi facile. C'est vrai. C'est aussi très important de prendre le temps, de faire les choses à son rythme. Rien ne presse, après tout internet ne devrait pas (je crois) disparaître de sitôt. Et enfin il est aussi important de rappeler que vous n'avez pas à faire quoi que ce soit parce qu'un sombre inconnu vous dit que c'est super et parle de votre chat avec plus d'enthousiasme que vous[^aspiration].
+
+Cela étant dit, n'hésitez pas à partager le lien si jamais vous lancez un jour votre blog ! (Certes il n'y a pour l'instant aucun moyen de me contacter sauf en récupérant mon pseudo Github depuis l'url pour m'envoyer un message là-bas ce qui est peu pratique j'en conviens, mais je suis en train de chercher des solutions qui m'éviteront d'être spammé par des bots.) 
+
+A bientôt, j'espère !
+
+[^aspiration]: Une des nombreuses choses qui vont sans dire, mais qui vont en fait bien mieux en le disant.

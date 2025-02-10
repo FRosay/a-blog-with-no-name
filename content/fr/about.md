@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "A propos"
 date = '2025-02-01'
 +++
 

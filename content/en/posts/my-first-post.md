@@ -1,5 +1,5 @@
 +++
-title = '[Draft] Why I wrote a blog (and why maybe you should too!)'
+title = 'Why I wrote a blog (and why maybe you should too!)'
 date = '2025-01-25T10:40:25+01:00'
 +++
 
@@ -21,4 +21,12 @@ While this particular ego-trip of mine is built with [Hugo](https://gohugo.io) (
 
 ## 3: It’s a nice way to give your impostor syndrome the finger
 
-“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat. And if people start reading you for real... then it's kind of on them, right?
+“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat. And if people start reading you anyway... well, it's kind of on them, right?
+
+Now I know, I know: it's usually not that easy. You're right. It's also important to take the time to do it the way you'd like. There's no rush, the internet is (hopefully?) not going anywhere. Also important is the fact that you do not have to do this at all, actually. While some find an unexpected calling in personnal blogging, it isn't, of course, what everyone should aspire to[^aspiration].
+
+However, if you ever start a blog I don't mind you throwing a link my way! (Ok right now there's no way to contact me on here except maybe getting my Github name through the URL and messaging me there which is not ideal, but I'm considering some options that will hopefully not get me spammed by a thousand bots.)
+
+See you around!
+
+[^aspiration]: One of the many things that go without saying, but are very much better said out loud.
