@@ -1,4 +1,4 @@
-#baseURL = "http://localhost:1313/"
+
 title = "A Blog With No Name"
 enableRobotsTXT = true
 enableEmoji = true

@@ -17,8 +17,8 @@ I mean, just imagine what you could be writing: absolutely anything you want. No
 
 There are so many free and easy ways to get your blog up and running these days that the most difficult part is actually choosing the one you’re going to use.
 
-While this particular ego-trip of mine is built with Hugo and hosted on [HOST_UNDEFINED], you truly have an absurd amount of choices. It ranges from small non-profits offering open-source hosting solutions to literally the biggest companies on Earth: pick your poison!
+While this particular ego-trip of mine is built with [Hugo](https://gohugo.io) (and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme) and hosted on [GitHub Pages](https://pages.github.com/), you truly have an absurd amount of choices. It ranges from small non-profits offering open-source hosting solutions to literally the biggest companies on Earth: pick your poison!
 
 ## 3: It’s a nice way to give your impostor syndrome the finger
 
-“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat.
+“No-one cares about what I’m thinking anyway” can become “No-one cares, but I don’t either!”. Or “I’ve nothing interesting enough to tell the world” can turn into that essay about your cat. And if people start reading you for real... then it's kind of on them, right?
