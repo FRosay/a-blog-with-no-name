@@ -7,6 +7,8 @@ date = '2025-02-01'
 
 {{< task-list >}}
 - [x] Ne plus afficher les points devant chaque item de liste avant la checkbox
+- [x] Fork le thème que j'utilise ([PaperMod](https://github.com/adityatelange/hugo-PaperMod)) et le customiser à ma sauce !
+- [x] Faire fonctionner le flux RSS
 
 ---
 
@@ -14,13 +16,11 @@ date = '2025-02-01'
 - [ ] Ajouter une page pour montrer les ~~terribles~~ *magnifiques* jeux-vidéos que j'ai créés : https://kiwi-productions.itch.io/
 - [ ] Ajouter une page pour référencer tous les autres blogs que j'aime d'amour
 - [ ] Ajouter une page pour parler de jeux de rôle sur table
-- [ ] Fork le thème que j'utilise ([PaperMod](https://github.com/adityatelange/hugo-PaperMod)) et le customiser à ma sauce !
 - [ ] Changer le bouton de traduction pour en faire un drapeau au lieu du code du pays
 - [ ] Créer un bouton qui appliquerait un thème aléatoire à l'entièreté du site
-- [ ] Faire fonctionner le flux RSS
 - [ ] Créer un thème "pirate 8-bit" qui joue la [version Chiptune de Wellerman](https://www.youtube.com/watch?v=VORvYm1ggoM) de The Longest Johns (allez les découvrir !)
 - [ ] Faire un site de [moins d'un kB](https://1kb.club/) qui redirige sur ce blog
-- [ ]
+- [ ] Ecrire au moins 10 articles
 - [ ]
 - [ ]
 - [ ]

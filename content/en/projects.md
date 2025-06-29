@@ -7,6 +7,8 @@ date = '2025-02-01'
 
 {{< task-list >}}
 - [x] Avoid rendering the bullets in front of every list item here
+- [x] Fork the theme I'm using ([PaperMod](https://github.com/adityatelange/hugo-PaperMod)) and start customizing!
+- [x] Get a nice RSS feed working
 
 ---
 
@@ -14,13 +16,11 @@ date = '2025-02-01'
 - [ ] Add a page to display my ~~awful~~ *amazing* video-game work: https://kiwi-productions.itch.io/
 - [ ] Add a page to reference all the other blogs I love
 - [ ] Add a page about table-top RPGs
-- [ ] Fork the theme I'm using ([PaperMod](https://github.com/adityatelange/hugo-PaperMod)) and start customizing!
 - [ ] Have the translation toggle button be a flag instead of country code
 - [ ] Create a button to apply a random theme to the site
-- [ ] Get a nice RSS feed working
 - [ ] Have an 8-bit pirate theme that plays the [Wellerman Chiptune](https://www.youtube.com/watch?v=VORvYm1ggoM) from The Longest Johns (check them out!)
 - [ ] Make a [less-than-1kB website](https://1kb.club/) that redirects to the main blog
-- [ ]
+- [ ] Write at least 10 articles
 - [ ]
 - [ ]
 - [ ]
