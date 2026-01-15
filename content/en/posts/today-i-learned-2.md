@@ -1,40 +1,38 @@
 +++
 title = "Today I learned: neo-neoplatonism, we're only our tools, and plastic recycling"
-date = '2026-01-11T12:00:00+01:00'
-draft = true
+date = '2026-01-15T11:00:00+01:00'
 +++
 
 ## Silicon valley and "neo-neoplatonism"
 
-In this article by the belgian blogger [Ploum](https://ploum.net), 
+In this article by the belgian blogger [Ploum](https://ploum.net), he argues quite strongly against platonism and neoplatonism, philosophies that separate the physical world from the "world of ideas" and placing the latter hierarchicaly above[^platonism]. Mister Ploum has himself quite the opposite stance: do we shape our thoughts, or are they shaping us? When you think about it (ha), it's hard to argue that every action is preceded by much thought, if at all. It's also hard to argue that your thinking is wholly detached from the material world and the experience you have of it. Like, if I'm writing right now it's not quite only because I decided it; mostly, it's because my thoughts and the values and principles I hold dear make me do this choice. If I did have a choice[^choice] here, I would probably be doing something else. Something easier and more immediately rewarding, probably.
 
-
-Dans cet article du blogueur [Ploum](https://fr.wikipedia.org/wiki/Lionel_Dricot), ce dernier critique vertement la pensée platonicienne et néo-platonicienne qui sépare (grossièrement) le monde matériel du monde des idées, construisant une hiérarchie dominée par le second. A l'inverse, l'auteur se demande, avec d'autres, si ce n'est pas la pensée qui fait le penseur, plus que le penseur ferait la pensée. Car en effet, il est difficile d'imaginer que l'on agit toujours après moult réflexion ou même, si c'était le cas, que ladite réflexion puisse être totalement coupée du monde et de l'expérience que nous en avons. Si j'écris aujourd'hui, ce n'est qu'en partie parce que je l'ai décidé ; c'est surtout parce que mes pensées et valeurs profondes me font faire ce choix presque malgré moi. Si j'avais effectivement le choix[^choix], je ferais sans doute autre chose. Quelque chose de moins fatiguant et de plus facile, probablement.
-
-Mais Ploum va encore plus loin en parlant de "néo-néoplatonicisme", une pensée où tout deviendrait subalterne à l'_idée_. Avec l'IA, plus besoin de penser, plus besoin de travailler ou d'apprendre : il suffit d'avoir une idée et de la donner à ChatGPT. C'est aujourd'hui le monde poussé par la Silicon valley. Un monde d'ailleurs assez pervers, qui ne récompenserait en fait pas les gens qui ont des idées (tout le monde a des idées, tout le temps), mais ceux qui ont le pouvoir - économique, surtout - de les faire réaliser par d'autres.
+Anyway, Ploum also elaborates by discussing "neo-neoplatonism", a philosophy where nothing matters anymore except _ideas_. And it's pushed by the Silicon valley more that ever with AI, which is advertised as a means of delegating everything - except having ideas. Just tell the AI what to do, it'll figure it out by itself! Why would you want to think by yourself, or learn, or work for anything? This is obviously a very dystopian world, because it wouldn't actually reward the people with the best ideas (everyone has ideas all the time), but the ones with the power - the money - to have those ideas be realised by other people.
 
 https://ploum.net/2025-10-27-outil-va-faire-de-moi.html
 
-## Nos outils ne sont pas neutres
+## Our tools are never neutral
 
-C'est l'article précédent qui m'a amené à repenser à celui-ci, découvert il y a quelques mois certes, mais qui m'avait fait si forte impression que je l'ai relu exprès. Son auteur, [Frank Elavsky](https://www.frank.computer/), s'énerve à raison contre l'affirmation qu'une chose - ici l'IA - "n'est qu'un outil". Invoquant de nombreuses références, notamment philosophiques, il nous fait voir qu'un outil n'est en fait jamais neutre : l'invention de la voiture individuelle a fini par conduire à centrer nos villes et nos moyens de transport sur elle, par exemple, avec les conséquences que l'on connaît[^conséquences] et que l'on essaye aujourd'hui de corriger.
+I had actually read this piece a few months ago, but it came to mind again when reading the article above. And I read it again, because even though it had made a great impression on me the first time, I couldn't quite remember enough about it. It's author, [Frank Elavsky](https://www.frank.computer/), is also angry, but this time at people who say that "AI is just a tool - it matters how you use it". By way of philosophy, he argues that tools are, in fact, never "just tools". That it is _always_ important to think about what are tools _do_, not just in the immediate sense of the word but, as M. Elavsky puts it, as "highly complex parts of life and culture". The invention of cars, for exemple, has constrained our city design and much of how we live, and has had numerous consequences[^consequences] that we're trying to undo today.
 
-Même un outil bien plus simple qu'une IA ou une voiture ne peut être neutre. Citant [Anna Gyllenklev](https://www.linkedin.com/posts/anna-gyllenklev-752253174_naming-as-framing-a-chairs-logic-activity-7331612556618346497-uoId/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADDAwBkBOdoW11I9B5DHy57VfR5jIs33Kq0), il explique que même une chaise communique une intention : s'asseoir d'une certaine façon.
+Even a much more simpler tool that an AI or a car isn't necessarily neutral. Citing [Anna Gyllenklev](https://www.linkedin.com/posts/anna-gyllenklev-752253174_naming-as-framing-a-chairs-logic-activity-7331612556618346497-uoId/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADDAwBkBOdoW11I9B5DHy57VfR5jIs33Kq0), the article notes that even chairs communicate an intention to us: not just to sit, but to do it in a certain way.
+
+Anyway, this article is (somewhat) long and complex, which is what I enjoyed about it. So instead of badly rehashing it, I would absolutely recommend that you give it a read.
 
 https://www.frank.computer/blog/2025/05/just-a-tool.html
 
-## Pourquoi on ne recycle pas - efficacement - le plastique (spoiler : le capitalisme)
+## Why plastic recycling is hard, actually (spoiler : it's mostly capitalism)
 
-Dans mon esprit, les efforts de recyclage n'étaient pas ce qu'ils auraient dû être à cause d'une nébuleuse résistance opposée par les multinationales du monde entier, sans que je me sois véritablement renseigné. C'est-à-dire, pour ma défense, qu'il suffit de se pencher pour trouver des scandales impliquant des grandes entreprises qui polluent et exploitent tout en essayant de dissimuler leurs actes.
+In my mind, plastic recycling efforts has always been hampered by a vague resistance I imagined coming from a Big Plastic of sorts, although I never quite read up on anything related. In my defense, it's all too easy to find various - sometimes criminal - scandals involving large companies exploiting, polluting, and trying to hide what they're doing.
 
-Cette vidéo-interview (malheureusement non sous-titrée) de [Hank Green](https://fr.wikipedia.org/wiki/Hank_Green) comble donc mes lacules sur le sujet. L'explication est donc qu'il y a plusieurs types de plastiques qui se recyclent différemment, qu'il n'est pas toujours aisé de séparer le plastique des autres matérieux qui lui sont adjoints... mais surtout, a priori, qu'il est apparemment beaucoup moins cher de produire du plastique neuf.
+So I tried to get up to speed with this part-interview video, where [Hank Green](https://en.wikipedia.org/wiki/Hank_Green) explains a few things. Like the fact that there are different types of plastic that don't recycle the same way, or that it can be pretty difficult to separate plastic from other materials that are used with it. Mostly though, he explains that new plastic is "dirt cheap", due to the fact that the thing we use to make it is a by-product of natural gas extraction, which the US has a lot of. And given that this thing[^thing] has practicaly no use except in making plastic, well here we are.
 
-Grossièrement résumé, il semblerait que le composant principal du plastique soit un sous-produit de la production de gas naturel, que les Etats-Unis extraient en grandes quantités. Ce composant n'étant pas vraiment utile, il est soit brûlé pour s'en débarrasser, soit revendu pour des sommes ridicules, d'où le faible prix du plastique neuf.
-
-Honnêtement, j'ai un peu de mal à accepter telle quelle l'explication : je comprends que le système actuel n'incite pas les entreprises à recycler au lieu d'acheter neuf, mais... est-ce que ce n'est pas qu'une raison de plus pour changer le système au lieu d'adapter sans fin ses règles ?
+Honestly, I always have a hard time with economically-oriented explanations like this: shouldn't we making rules that favor long-term sustainability instead of short-term gains? Do we _need_ this much plastic? Is this not another point in favor of changing the system instead of endlessly amending it? At least the video then turns into a mostly optimistic dialog about the future of plastic recycling and what is already done in the field. Far from perfect, but a direction we desperately need to take.
 
 https://www.youtube.com/watch?v=325HdQe4WM4
 
 
-[^choix] "Mais on a toujours le choix" : c'est vrai, on a toujours celui d'en faire des mauvais. Mais en [interprétant charitablement](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9) les propos d'autrui vous verrez bien qu'on ne parle pas de ces choix-là.
-[^conséquences] La dépendence à l'essence et donc au pétrole, l'atrophie des transports en commun, des coûts de construction et d'entretien énormes pour toutes les infrastructures dont la voiture dépend (routes, garages, parkings, raffineries, bateaux pour transporter le pétrole...) pour n'en citer que quelques-uns.
+[^platonism] This is a very crude and probably only somewhat true summary of those philosophies, I know. Sorry philosophers. Will do better next time.
+[^choice] "You always have a choice": sure, you can always make the _wrong_ choice. But if you apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity) to what people say, I believe you'll understand that those aren't usually conceived as "real" choices. 
+[^consequences] Our dependency on oil and gas, a dramatic shrink in public transport, dramatic building and maintenance costs for every infrastructure our cars depend on (roads, garages, parking lots, refineries, boats to transport the oil...), and this is probably just the beginning of it. 
+[^thing] No I'm not going back to the video to remember what it's called. Yes I'm lazy.
