@@ -36,6 +36,6 @@ Honnêtement, j'ai un peu de mal à accepter telle quelle l'explication : je com
 https://www.youtube.com/watch?v=325HdQe4WM4
 
 
-[^choix] "Mais on a toujours le choix" : c'est vrai, on a toujours celui d'en faire des mauvais. Mais en [interprétant charitablement](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9) les propos d'autrui vous verrez bien qu'on ne parle pas de ces choix-là.
-[^conséquences] La dépendence à l'essence et donc au pétrole, l'atrophie des transports en commun, des coûts de construction et d'entretien énormes pour toutes les infrastructures dont la voiture dépend (routes, garages, parkings, raffineries, bateaux pour transporter le pétrole...) pour n'en citer que quelques-uns.
-[^nécessaire] Même si elle arrive bien trop tard.
+[^choix]: "Mais on a toujours le choix" : c'est vrai, on a toujours celui d'en faire des mauvais. Mais en [interprétant charitablement](https://fr.wikipedia.org/wiki/Principe_de_charit%C3%A9) les propos d'autrui vous verrez bien qu'on ne parle pas de ces choix-là.
+[^conséquences]: La dépendence à l'essence et donc au pétrole, l'atrophie des transports en commun, des coûts de construction et d'entretien énormes pour toutes les infrastructures dont la voiture dépend (routes, garages, parkings, raffineries, bateaux pour transporter le pétrole...) pour n'en citer que quelques-uns.
+[^nécessaire]: Même si elle arrive bien trop tard.

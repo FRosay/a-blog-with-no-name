@@ -32,7 +32,7 @@ Honestly, I always have a hard time with economically-oriented explanations like
 https://www.youtube.com/watch?v=325HdQe4WM4
 
 
-[^platonism] This is a very crude and probably only somewhat true summary of those philosophies, I know. Sorry philosophers. Will do better next time.
-[^choice] "You always have a choice": sure, you can always make the _wrong_ choice. But if you apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity) to what people say, I believe you'll understand that those aren't usually conceived as "real" choices. 
-[^consequences] Our dependency on oil and gas, a dramatic shrink in public transport, dramatic building and maintenance costs for every infrastructure our cars depend on (roads, garages, parking lots, refineries, boats to transport the oil...), and this is probably just the beginning of it. 
-[^thing] No I'm not going back to the video to remember what it's called. Yes I'm lazy.
+[^platonism]: This is a very crude and probably only somewhat true summary of those philosophies, I know. Sorry philosophers. Will do better next time.
+[^choice]: "You always have a choice": sure, you can always make the _wrong_ choice. But if you apply the [principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity) to what people say, I believe you'll understand that those aren't usually conceived as "real" choices. 
+[^consequences]: Our dependency on oil and gas, a dramatic shrink in public transport, dramatic building and maintenance costs for every infrastructure our cars depend on (roads, garages, parking lots, refineries, boats to transport the oil...), and this is probably just the beginning of it. 
+[^thing]: No I'm not going back to the video to remember what it's called. Yes I'm lazy.
