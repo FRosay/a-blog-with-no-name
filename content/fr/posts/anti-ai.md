@@ -11,15 +11,34 @@ Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant
 
 ## Les arbres qui cachent la forêt
 
-Plusieurs problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA, à savoir son impact écologique[^écologie], le fait qu'elle remplace ou non certains métiers, et les problèmes de droits d'auteurs. Mais, aussi valides à soulever soient ces problèmes, j'aimerais ici proposer un angle légèrement différent.
+Plusieurs problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA, notamment son impact écologique[^écologie], le fait qu'elle remplacerait ou précariserait certains métiers, et les problèmes de droits d'auteurs. On pourrait y ajouter le débat sur l'efficacité réelle des LLMs censés booster notre productivité, le fait que l'industrie se soit largement bâtie sur des mensonges ou encore les risques à long-terme sur l'apprentissage, entre autres. Mais, aussi valides à soulever que soient chacun de ces points, j'aimerais ici proposer un angle légèrement différent.
 
-Car en discutant régulièrement du sujet et en étant témoin de discussions sur internet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de ces problèmes, mais que cela ne suffit pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que sous nos yeux est plus difficile à 
+Car en discutant régulièrement du sujet et en étant témoin de discussions sur internet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de la plupart de ces problèmes. Cela ne suffit juste pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que littéralement sous nos yeux est trop difficile à appréhender ? Est-ce que l'espoir de gains personnels fabuleux éclipse tout sentiment moral ?
+
+La question est évidemment aussi complexe du point de vue individuel qu'elle est triviale en ce qui concerne les entreprises, pour qui le profit - ou son potentiel, ce qui est très différent - est l'alpha et l'omega de l'existence.
+
+## FOMO partout, justice nulle part
+
+Dans mes discussions, un sentiment que j'entends trop souvent pour l'ignorer s'exprime souvent sous la forme d'un "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique.
+
+Cette approche implique en outre bien plus que la simple _existence_ de l'IA, mais également une _utilité_ si importante qu'elle deviendrait sa propre raison d'être. Or, il est loin d'être certain que les avantages potentiels[^avantages] des LLMs en vaillent la peine. Et puis, quand bien même ce serait le cas pour certaines personnes, nous pourrions très bien estimer que le prix à payer collectivement pour l'avantage de quelques-uns est trop élevé.
+
+Cette façon de faire face à l'IA en ignore ou en minimise donc les coûts cachés, mais a aussi un autre problème majeur : elle en surestime les avantages.
+
+## 
+
+L'IA, en tant que produit, s'est vendue sur certains des plus gros mensonges de la dernière décennie, ce qui est beaucoup dire quand on se souvient que cette dernière a vu passer la blockchain, les NFTs et le métavers. Pourtant, il suffit de suivre vaguement leur actualité pour constater que les IAs
+
+## Le problème des critiques tièdes
+
+Problèmes de beaucoup de critiques tièdes : proposer des solutions tièdes, par exemple des pratiques ponctuelles, comme si elles pouvaient contrecarrer la force globale des outils.
 
 
 
 [^title]: Tel que "Oui j'ai des objections à l'utilisation de LLMs mais pas par anti-technologisme primaire ou esprit de contradiction, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons", par exemple.
-[^IA]: Oui je vais reprendre le language courant et dire "IA" pour "IA générative" ou "LLM", déso pas déso.
-[^écologie]: Dont je ne peux pas m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_
+[^IA]: Oui je vais reprendre le language courant et dire "IA" pour "IA générative" ou "LLM". Déso pas déso.
+[^écologie]: Dont je ne peux pas m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_.
+[^avantages]: On y reviendra.
 
 
 ---------
