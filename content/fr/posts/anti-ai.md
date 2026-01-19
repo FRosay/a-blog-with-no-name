@@ -1,15 +1,25 @@
 +++
 title = "Ce n'est pas moi qui suis anti-IA, c'est l'IA qui est anti-moi"
-date = '2025-09-15T10:40:25+01:00'
+date = '2026-01-19T12:00:00+01:00'
 draft = true
 +++
 
-Le titre de cet article peut ressembler à une blague, mais soyez prévenus qu'il n'en est rien. S'il a cette tournure, c'était seulement qu'il aurait été trop long d'écrire un titre honnête (tel que "Oui peut-être que je suis "anti-IA" mais pas par anti-technologisme primaire ou esprit de contradiction basique, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons").
+Le titre de cet article peut ressembler à une blague, mais soyez prévenus qu'il n'en est rien. S'il a cette tournure, c'était seulement qu'il aurait été trop long d'écrire un titre honnête[^title].
 
 En revanche, il vrai que ce titre nécessite probablement quelques précisions avant de rentrer dans le vif du sujet.
-Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante. Il n'est pas question de 
+Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante (les LLMs). Précisons encore que, puisque l'IA[^IA] n'est douée ni de conscience ni de raison, elle ne peut être "anti" quoi que ce soit. Précisons enfin que je ne suis pas présomptueux au point de penser qu'une IA, même intelligente, serait contre "moi" spécifiquement ; mais je crois que l'IA pose des problèmes significatifs qui, tant qu'ils n'auront pas été résolus, devraient nous inciter à restreindre son utilisation.
+
+## Les arbres qui cachent la forêt
+
+Plusieurs problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA, à savoir son impact écologique[^écologie], le fait qu'elle remplace ou non certains métiers, et les problèmes de droits d'auteurs. Mais, aussi valides à soulever soient ces problèmes, j'aimerais ici proposer un angle légèrement différent.
+
+Car en discutant régulièrement du sujet et en étant témoin de discussions sur internet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de ces problèmes, mais que cela ne suffit pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que sous nos yeux est plus difficile à 
 
 
+
+[^title]: Tel que "Oui j'ai des objections à l'utilisation de LLMs mais pas par anti-technologisme primaire ou esprit de contradiction, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons", par exemple.
+[^IA]: Oui je vais reprendre le language courant et dire "IA" pour "IA générative" ou "LLM", déso pas déso.
+[^écologie]: Dont je ne peux pas m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_
 
 
 ---------
@@ -39,7 +49,7 @@ Ecology:
 -- https://www.nationalobserver.com/2025/09/04/investigations/google-net-zero-sustainability
 -- https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/
 
-- Aaaaand draining water:
+- And draining water:
 -- https://www.cnbc.com/2025/10/16/water-ai-mega-projects-raise-alarm-in-some-of-europes-driest-regions.html
 
 
@@ -87,7 +97,6 @@ Effets psycho-sociaux pervers :
 -- https://www.doc.cc/articles/ai-navigation
 
 - Fake News :
--- https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
 -- https://www.bbc.co.uk/mediacentre/2025/new-ebu-research-ai-assistants-news-content
 -- https://www.theverge.com/ai-artificial-intelligence/835839/google-discover-ai-headlines-clickbait-nonsense
 -- https://www.theverge.com/2024/11/12/24289939/apple-intelligence-ai-notification-summaries-awkward-funny-bad
