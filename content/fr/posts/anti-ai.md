@@ -4,32 +4,45 @@ date = '2026-01-19T12:00:00+01:00'
 draft = true
 +++
 
+## 1 : IA = problèmes (~OK)
+## 2 : problèmes sont connus et discutés, mais ça n'empêche pas d'utiliser l'IA ; pourquoi ? (~OK sauf titre)
+## 3 : repartir de ce que disent les gens, comme "c'est un outil (comme un autre)" ; en fait non
+## 4 : les gens disent aussi souvent que "de toute façon c'est là" ; ce n'est pas une raison
+## 5 : insister sur l'absence de preuves suffisantes de l'IA comme améliorateur de performances
+## 6 : conclure sur une position de principe contre le solutionnisme facile et pour des solutions aux causes, pas aux effets
+
 Le titre de cet article peut ressembler à une blague, mais soyez prévenus qu'il n'en est rien. S'il a cette tournure, c'était seulement qu'il aurait été trop long d'écrire un titre honnête[^title].
 
 En revanche, il vrai que ce titre nécessite probablement quelques précisions avant de rentrer dans le vif du sujet.
 Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante (les LLMs). Précisons encore que, puisque l'IA[^IA] n'est douée ni de conscience ni de raison, elle ne peut être "anti" quoi que ce soit. Précisons enfin que je ne suis pas présomptueux au point de penser qu'une IA, même intelligente, serait contre "moi" spécifiquement ; mais je crois que l'IA pose des problèmes significatifs qui, tant qu'ils n'auront pas été résolus, devraient nous inciter à restreindre son utilisation.
 
-## Les arbres qui cachent la forêt
+## Le mystère de l'attrait formidable des IAs génératives
 
-Plusieurs problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA, notamment son impact écologique[^écologie], le fait qu'elle remplacerait ou précariserait certains métiers, et les problèmes de droits d'auteurs. On pourrait y ajouter le débat sur l'efficacité réelle des LLMs censés booster notre productivité, le fait que l'industrie se soit largement bâtie sur des mensonges ou encore les risques à long-terme sur l'apprentissage, entre autres. Mais, aussi valides à soulever que soient chacun de ces points, j'aimerais ici proposer un angle légèrement différent.
+De nombreux problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA. Pour ne citer que les plus en vogue, on pourrait évoquer son impact écologique[^écologie], le fait qu'elle remplacerait ou précariserait certains métiers, ainsi qu'un pillage de données ignorant souvent toute notion de droit d'auteur. On pourrait y ajouter le débat sur l'efficacité réelle des LLMs censés booster notre productivité, le fait que l'industrie se soit largement bâtie sur des mensonges, ou encore les risques à long-terme sur l'apprentissage, entre autres. Mais, aussi valides à soulever que soient chacun de ces points, j'aimerais ici proposer un angle légèrement différent.
 
-Car en discutant régulièrement du sujet et en étant témoin de discussions sur internet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de la plupart de ces problèmes. Cela ne suffit juste pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que littéralement sous nos yeux est trop difficile à appréhender ? Est-ce que l'espoir de gains personnels fabuleux éclipse tout sentiment moral ?
+Car, en discutant régulièrement du sujet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de la plupart de ces problèmes. Cela ne suffit juste pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que littéralement sous nos yeux est trop difficile à appréhender ? Est-ce que l'espoir de gains personnels fabuleux éclipse tout sentiment moral ?
 
 La question est évidemment aussi complexe du point de vue individuel qu'elle est triviale en ce qui concerne les entreprises, pour qui le profit - ou son potentiel, ce qui est très différent - est l'alpha et l'omega de l'existence.
 
+## De l'incapacité à penser les outils
+
+A chaque discussion sur le sujet de l'IA, deux sujets reviennent, je crois, assez systématiquement. Deux petites phrases  
+
 ## FOMO partout, justice nulle part
 
-Dans mes discussions, un sentiment que j'entends trop souvent pour l'ignorer s'exprime souvent sous la forme d'un "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique.
+Dans mes discussions, un sentiment que j'entends trop souvent pour ignorer s'exprime souvent sous la forme d'un "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Ce sentiment semble toucher aussi bien les personnes qui n'ont pas vraiment d'avis sur la question que celles qui sont par principe opposées à l'IA. Ces dernières semblent poussées par un fatalisme du à l'absence d'alternatives, tandis que les premières font souvent montre d'une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique.
 
-Cette approche implique en outre bien plus que la simple _existence_ de l'IA, mais également une _utilité_ si importante qu'elle deviendrait sa propre raison d'être. Or, il est loin d'être certain que les avantages potentiels[^avantages] des LLMs en vaillent la peine. Et puis, quand bien même ce serait le cas pour certaines personnes, nous pourrions très bien estimer que le prix à payer collectivement pour l'avantage de quelques-uns est trop élevé.
+Quoi qu'il en soit, cette approche accepte bien plus que la simple _existence_ de l'IA, mais également une _utilité_ de l'IA si importante qu'elle éclipse toute autre considération. Or, il est loin d'être certain que les avantages potentiels[^avantages] des LLMs en vaillent la peine. Et puis, quand bien même ce serait le cas pour certaines personnes, nous pourrions très bien estimer que le prix à payer collectivement pour l'avantage de quelques-uns est trop élevé.
 
-Cette façon de faire face à l'IA en ignore ou en minimise donc les coûts cachés, mais a aussi un autre problème majeur : elle en surestime les avantages.
+Cette façon de faire face à l'IA en ignore ou en minimise donc les coûts cachés, mais a aussi souvent un autre problème majeur : elle en surestime les avantages.
 
-## 
+## L'IA au beau pays de la théorie
 
-L'IA, en tant que produit, s'est vendue sur certains des plus gros mensonges de la dernière décennie, ce qui est beaucoup dire quand on se souvient que cette dernière a vu passer la blockchain, les NFTs et le métavers. Pourtant, il suffit de suivre vaguement leur actualité pour constater que les IAs
+L'IA, en tant que produit, s'est vendue sur certains des plus gros mensonges de la dernière décennie, ce qui est beaucoup dire quand on se souvient que cette dernière a vu passer la blockchain, les NFTs et le métavers. Pourtant, il suffit de suivre vaguement leur actualité pour constater que les IAs, même dans des domaines où elles peuvent être utiles, ne sont jamais à la hauteur de leurs promesses. La plupart du temps, ce n'est en fait pas une IA du tout mais des [êtres](https://theoutline.com/post/2520/strangers-are-looking-at-your-data-for-pennies) [humains](https://www.cnbc.com/2018/01/08/facebook-is-shutting-down-m.html), notamment [en](https://timesofindia.indiatimes.com/technology/tech-news/how-this-billion-dollar-london-startup-backed-by-microsoft-made-700-engineers-sitting-in-india-pose-as-ai/articleshow/121572659.cms) [Inde](https://www.businessinsider.com/amazons-just-walk-out-actually-1-000-people-in-india-2024-4). Et quand ce sont bel et bien des IAs, il peut être difficile de trouver des sources fiables pour mesurer leurs performances. [Ce post Reddit](https://www.reddit.com/r/ClaudeAI/comments/1mwtyan/are_there_any_real_benchmarks_showing_these_ai/), par exemple, demande simplement des références d'études un peu solides... et la seule qui soit mentionnée en réponse est la fameuse étude
 
-## Le problème des critiques tièdes
+## Le solutionnisme n'est pas la solution
+
+Que faire une fois que l'on a établi notre propre incapacité morale à accepter
 
 Problèmes de beaucoup de critiques tièdes : proposer des solutions tièdes, par exemple des pratiques ponctuelles, comme si elles pouvaient contrecarrer la force globale des outils.
 
