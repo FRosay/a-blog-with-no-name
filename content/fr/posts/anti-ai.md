@@ -4,12 +4,13 @@ date = '2026-01-19T12:00:00+01:00'
 draft = true
 +++
 
-## 1 : IA = problèmes (~OK)
-## 2 : problèmes sont connus et discutés, mais ça n'empêche pas d'utiliser l'IA ; pourquoi ? (~OK sauf titre)
-## 3 : repartir de ce que disent les gens, comme "c'est un outil (comme un autre)" ; en fait non
-## 4 : les gens disent aussi souvent que "de toute façon c'est là" ; ce n'est pas une raison
-## 5 : insister sur l'absence de preuves suffisantes de l'IA comme améliorateur de performances
-## 6 : conclure sur une position de principe contre le solutionnisme facile et pour des solutions aux causes, pas aux effets
+1 : intro sur IA = problèmes (~OK)
+2 : problèmes sont connus et discutés, mais ça n'empêche pas d'utiliser l'IA ; pourquoi ? (~OK sauf titre)
+3 : repartir de ce que disent les gens, transition into deux sous-parties (~OK mais titre à trouver)
+3.1 : "c'est un outil (comme un autre)" ; en fait non
+3.2 : "de toute façon c'est là" ; ce n'est pas une raison
+4 : insister sur l'absence de preuves suffisantes de l'IA comme améliorateur de performances
+5 : conclure sur une position de principe contre le solutionnisme facile et pour des solutions aux causes, pas aux effets
 
 Le titre de cet article peut ressembler à une blague, mais soyez prévenus qu'il n'en est rien. S'il a cette tournure, c'était seulement qu'il aurait été trop long d'écrire un titre honnête[^title].
 
@@ -24,11 +25,23 @@ Car, en discutant régulièrement du sujet, j'ai l'impression que la plupart des
 
 La question est évidemment aussi complexe du point de vue individuel qu'elle est triviale en ce qui concerne les entreprises, pour qui le profit - ou son potentiel, ce qui est très différent - est l'alpha et l'omega de l'existence.
 
-## De l'incapacité à penser les outils
+## Titre à trouver
 
-A chaque discussion sur le sujet de l'IA, deux sujets reviennent, je crois, assez systématiquement. Deux petites phrases  
+A chaque discussion sur le sujet de l'IA, deux sujets reviennent, je crois, assez systématiquement. Deux petites phrases qui semblent anodines, mais qui émoussent immédiatement les velleités d'esprit critique. La première nous explique que l'IA n'est "que" un outil, dont il faut apprendre à se servir correctement. La seconde assène plus ou moins durement que "de toute façon, l'IA est là" et qu'il faudrait donc absolument s'adapter. Je crois, pour ma part, que ces deux voies sont des impasses intellectuelles.
 
-## FOMO partout, justice nulle part
+### De l'incapacité à penser les outils
+
+Que dit-on (peut-être malgré soi) quand on dit que l'IA n'est qu'un outil ? Que met-on de côté ? D'abord, on écarte tout ce qui était nécessaire pour faire exister l'outil. On évite de penser à la façon dont il a été créé, avec quels matériaux, dans quel contexte politique, etc. Pour l'IA, cela revient à refuser d'évoquer toute une chaîne de production qui va de la récolte de métaux rares dans des conditions dramatiques jusqu'au pillage généralisé de nos données, notamment toutes les oeuvres artistiques postées un jour sur internet.
+
+Même en ignorant l'existence qu'un outil a pu avoir avant d'être utilisé pour la première fois, il reste faux de croire que l'entièreté de la réflexion à avoir à son sujet réside dans l'utilisation que l'on devrait en faire ou non. Car un outil est conçu pour certains usages ; il en inhibe d'autres, ou les rend impossibles. Un marteau vous incite à le saisir par le manche et à frapper avec sa tête. L'inverse est possible, mais moins efficace. Un marteau vous oblige également à le balancer d'avant en arrière pour l'utiliser. Se contenter d'appuyer très fort sans mouvement de balancier est probablement encore moins efficace que de le saisir par la tête.
+
+Mais prenons un autre type d'outil sur lequel le questionnement serait plus évidemment radical que pour un marteau : les armes. Une arme n'est pas "juste" un outil. C'est un outil qui tue, qui blesse ou qui mutile. Sans même parler de l'utiliser, le fait de porter une arme est donc quelque chose qu'un certain nombre de personnes, moi-même compris, refuse purement et simplement. C'est même une position morale qui a été suffisamment acceptée pour que des pays entiers mettent en place une alternative civile au service militaire.
+
+On voit là assez clairement que si une telle position morale est possible s'agissant d'un objet aussi bête et méchant qu'une arme à feu, elle doit l'être également dans le cas de l'IA générative. Certes, cette dernière n'a pas pour objectif avoué de tuer, 
+
+The purpose of a system is what it does
+
+### FOMO partout, justice nulle part
 
 Dans mes discussions, un sentiment que j'entends trop souvent pour ignorer s'exprime souvent sous la forme d'un "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Ce sentiment semble toucher aussi bien les personnes qui n'ont pas vraiment d'avis sur la question que celles qui sont par principe opposées à l'IA. Ces dernières semblent poussées par un fatalisme du à l'absence d'alternatives, tandis que les premières font souvent montre d'une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique.
 
