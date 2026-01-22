@@ -37,9 +37,10 @@ Même en ignorant l'existence qu'un outil a pu avoir avant d'être utilisé pour
 
 Mais prenons un autre type d'outil sur lequel le questionnement serait plus évidemment radical que pour un marteau : les armes. Une arme n'est pas "juste" un outil. C'est un outil qui tue, qui blesse ou qui mutile. Sans même parler de l'utiliser, le fait de porter une arme est donc quelque chose qu'un certain nombre de personnes, moi-même compris, refuse purement et simplement. C'est même une position morale qui a été suffisamment acceptée pour que des pays entiers mettent en place une alternative civile au service militaire.
 
-On voit là assez clairement que si une telle position morale est possible s'agissant d'un objet aussi bête et méchant qu'une arme à feu, elle doit l'être également dans le cas de l'IA générative. Certes, cette dernière n'a pas pour objectif avoué de tuer, 
+On voit là assez clairement que si une telle position morale est possible s'agissant d'un objet aussi bête et méchant qu'une arme à feu, elle doit l'être également dans le cas de l'IA générative. Certes, cette dernière n'a pas pour objectif avoué de tuer, mais elle n'en fait pas moins tout le mal déjà évoqué plus haut. Et, malheureusement pour ses défenseurs, [la finalité d'un système est ce qu'il fait](https://fr.wikipedia.org/wiki/Stafford_Beer#POSIWID).
 
-The purpose of a system is what it does
+J'en finirai ici en recommandant fortement deux articles (en anglais) sur le sujet, l'un de [Frank Elavsky](https://www.frank.computer/blog/2025/05/just-a-tool.html) sur précisément l'erreur de penser que quelque chose puisse n'être qu'un outil, et [l'autre](https://aeon.co/essays/bernard-stieglers-philosophy-on-how-technology-shapes-our-world) plus général sur la philosophie de [Bernard Stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegler), philosophe de la technique. 
+
 
 ### FOMO partout, justice nulle part
 
