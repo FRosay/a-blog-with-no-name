@@ -47,9 +47,9 @@ Même quand ce sont bel et bien des IAs, il peut être difficile de trouver des 
 
 ## Le solutionnisme n'est pas la solution
 
-Un premier réflexe instinctif devant l'ensemble des problèmes de l'IA, comme devant d'autres problèmes d'ailleurs, est de tenter de leur trouver des solutions. Malheureusement, ces dernières dépendront mécaniquement du diagnostic qui aura été posé dans un premier temps. Notamment, le fait d'analyser un problème comme contingent amène nécessairement à considérer des solutions du même ordre au lieu d'y apporter des réponses structurelles.
+Un premier réflexe instinctif devant l'ensemble des problèmes soulevés par l'IA, comme devant d'autres d'ailleurs, est de tenter de leur trouver des solutions. Malheureusement, ces dernières dépendront mécaniquement du diagnostic qui aura été posé dans un premier temps. Notamment, le fait d'analyser un problème comme contingent amènera probablement à considérer des solutions du même ordre, au lieu d'y apporter des réponses structurelles. Ces dernières, pourtant, semblent plus que nécessaires dans le cas des LLMs.
 
-Problèmes de beaucoup de critiques tièdes : proposer des solutions tièdes, par exemple des pratiques ponctuelles, comme si elles pouvaient contrecarrer la force globale des outils.
+En attendant, qui nous dit que nous sommes dans l'obligation d'utiliser une technologie aussi néfaste ? L'argument plaît généralement peu, mais s'engager dans une forme de décroissance technologique ne signifie pas être anti-technologie ou même anti-IA. Questionner et vouloir limiter l'usage généralisé de chatbots sous stéroïdes n'est pas une attaque, mais une défense. Il s'agit de nous protéger, nous humains, des effets sur le climat de l'émergence d'une nouvelle industrie polluante. De s'assurer que nos nouveaux outils ne tendent pas à nous rendre [moins créatifs](https://drive.google.com/file/d/1K3nSFdrKwg4h314skO3kT--Rso3xQ1Dd/view) ou [moins intelligents](https://arxiv.org/abs/2506.08872)[^intelligence] _avant_ de les généraliser, pas après.
 
 
 
@@ -57,3 +57,4 @@ Problèmes de beaucoup de critiques tièdes : proposer des solutions tièdes, pa
 [^IA]: Oui je vais reprendre le language courant et dire "IA" pour "IA générative" ou "LLM". Déso pas déso.
 [^écologie]: Dont je ne peux pas m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_.
 [^mensonges]: On y reviendra.
+[^intelligence]: Oui il y aura toujours des nouvelles idées et des personnes intelligentes. Mais ce sera peut-être malgré l'IA et non grâce à elle, de la même façon qu'il y a toujours aujourd'hui des personnes douées en calcul mental malgré la présence de calculatrices toujours à portée de main sur nos téléphones.
