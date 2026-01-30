@@ -53,7 +53,7 @@ Un premier réflexe instinctif devant l'ensemble des problèmes soulevés par l'
 
 En attendant, qui nous dit que nous sommes dans l'obligation d'utiliser une technologie aussi néfaste ? L'argument plaît généralement peu, mais s'engager dans une forme de décroissance technologique ne signifie pas être anti-technologie ou même anti-IA. Questionner et vouloir limiter l'usage généralisé de chatbots sous stéroïdes n'est pas une attaque, mais une défense. Il s'agit de nous protéger, nous humains, des effets sur le climat de l'émergence d'une nouvelle industrie polluante. De s'assurer que nos nouveaux outils ne tendent pas à nous rendre [moins créatifs](https://drive.google.com/file/d/1K3nSFdrKwg4h314skO3kT--Rso3xQ1Dd/view) ou [moins intelligents](https://arxiv.org/abs/2506.08872)[^intelligence] _avant_ de les généraliser, pas après.
 
-"_Move fast and break things_"[^break], la devise officielle de Facebook jusqu'en 2014, n'a jamais été quelque chose de souhaitable
+"_Move fast and break things_"[^break], officiellement la devise de Facebook jusqu'en 2014, est un objectif entendable lorsqu'il s'agit de développer un site internet rapidement et de corriger ses bugs plus tard. Ce n'est définitivement pas souhaitable lorsque la rapidité consiste à être toujours en avance sur les régulations gouvernementales et que ce sont des vies qui sont brisées. Il n'est pas trop tard pour ralentir, voire faire pause, et choisir consciemment ce dont nous voulons ou non.
 
 
 [^title]: Tel que "Oui j'ai des objections à l'utilisation de LLMs mais pas par anti-technologisme primaire ou esprit de contradiction, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons", par exemple.
