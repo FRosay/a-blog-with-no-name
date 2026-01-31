@@ -4,14 +4,12 @@ date = '2026-01-19T12:00:00+01:00'
 draft = true
 +++
 
-> Avant-propos :
-> 
-> Ce texte ne reflète probablement ni très bien ni dans son entièreté ce que je pense de l'IA générative, mais le voici. Il n'est qu'un instantané d'une pensée que j'espère amenée à évoluer, même si que je doute d'en renier l'essence de sitôt. Je vous invite à le lire comme tel.
+> Avant-propos : ce texte ne reflète probablement ni très bien ni dans son entièreté ce que je pense de l'IA générative, mais le voici. Il n'est qu'un instantané d'une pensée que j'espère amenée à évoluer, même si je doute d'en renier l'essence de sitôt. Je vous invite à le lire comme tel.
 
 Le titre de cet article peut ressembler à une blague, mais soyez prévenus qu'il n'en est rien. S'il a cette tournure, c'était seulement qu'il aurait été trop long d'écrire un titre honnête[^title].
 
-En revanche, il vrai que ce titre nécessite probablement quelques précisions avant de rentrer dans le vif du sujet.
-Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante (les LLMs ou Large Modèles de Données, comme ChatGPT). Précisons encore que, puisque l'IA[^IA] n'est douée ni de conscience ni de raison, elle ne peut être "anti" quoi que ce soit. Précisons enfin que je ne suis pas présomptueux au point de penser qu'une IA, même intelligente, serait contre "moi" spécifiquement ; mais je crois que l'IA pose des problèmes significatifs qui, tant qu'ils n'auront pas été résolus, devraient nous inciter à restreindre son utilisation.
+En revanche, il vrai que qu'il nécessite probablement quelques précisions avant de rentrer dans le vif du sujet.
+Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante (les [LLMs](https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage), ou Grands Modèles de Langage, comme ChatGPT). Précisons encore que, puisque l'IA[^IA] n'est douée ni de conscience ni de raison, elle ne peut être "anti" quoi que ce soit. Précisons enfin que je ne suis pas présomptueux au point de penser qu'une IA, même intelligente, serait contre "moi" spécifiquement ; mais je crois que l'IA pose des problèmes significatifs qui, tant qu'ils n'auront pas été résolus, devraient nous inciter à restreindre son utilisation.
 
 ## Le plus gros problème de l'IA, c'est qu'elle les cumule
 
@@ -23,11 +21,11 @@ La question est probablement aussi complexe du point de vue individuel qu'elle e
 
 ## Dépasser les lieux communs dépolitisants
 
-A chaque discussion informelle sur le sujet de l'IA, deux sujets reviennent, je crois, assez systématiquement. Deux petites phrases qui semblent anodines, mais qui émoussent immédiatement les velleités d'esprit critique. La première nous explique que l'IA n'est "que" un outil, dont il faut apprendre à se servir correctement. La seconde assène plus ou moins durement que "de toute façon, l'IA est là" et qu'il faudrait donc absolument s'adapter. Je crois, pour ma part, que ces deux voies sont des impasses intellectuelles.
+A chaque discussion informelle sur le sujet de l'IA, deux sujets reviennent, je crois, assez systématiquement. Deux petites phrases qui semblent anodines, mais qui émoussent immédiatement les velléités d'esprit critique. La première nous explique que l'IA n'est "que" un outil, dont il faut apprendre à se servir correctement. La seconde assène plus ou moins durement que "de toute façon, l'IA est là" et qu'il faudrait donc absolument s'adapter. Je crois, pour ma part, que ces deux voies sont des impasses intellectuelles.
 
 ### Voir plus loin que le bout de ses outils
 
-Que dit-on (peut-être malgré soi) quand on dit que l'IA n'est qu'un outil ? Que met-on de côté ? D'abord, on écarte tout ce qui était nécessaire pour faire exister l'outil. On évite de penser à la façon dont il a été créé, avec quels matériaux, dans quel contexte politique, etc. Pour l'IA, cela revient à refuser d'évoquer toute une chaîne de production qui va de la récolte de métaux rares dans des conditions dramatiques jusqu'au pillage généralisé de nos données, notamment toutes les oeuvres artistiques postées un jour sur internet.
+Que dit-on (peut-être malgré soi) quand on dit que l'IA n'est qu'un outil ? Que met-on de côté ? D'abord, on écarte tout ce qui était nécessaire pour faire exister l'outil. On évite de penser à la façon dont il a été créé, avec quels matériaux, dans quel contexte politique, etc. Pour l'IA, cela revient à refuser d'évoquer toute une chaîne de production qui va de la récolte de métaux rares dans des conditions dramatiques jusqu'au pillage généralisé de nos données, notamment toutes les œuvres artistiques postées un jour sur internet.
 
 Même en ignorant l'existence qu'un outil a pu avoir avant d'être utilisé pour la première fois, il reste faux de croire que l'entièreté de la réflexion à avoir à son sujet réside dans l'utilisation que l'on devrait en faire ou non. [Cet article](https://www.frank.computer/blog/2025/05/just-a-tool.html) de Frank Elavsky l'explique bien : un outil est conçu pour certains usages ; il en inhibe d'autres, ou les rend impossibles. Un marteau vous incite à le saisir par le manche et à frapper avec sa tête. L'inverse est possible, mais moins efficace. Un marteau vous oblige également à le balancer d'avant en arrière pour l'utiliser. Se contenter d'appuyer très fort sans mouvement de balancier est probablement encore moins efficace que de le saisir par la tête.
 
@@ -37,9 +35,9 @@ On voit là assez clairement que si une telle position morale est possible s'agi
 
 ### FOMO partout, performances nulle part
 
-Le second sentiment que j'entends trop souvent pour pouvoir l'ignorer s'exprime généralement sous la forme d'un somamire "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Ce sentiment semble exister partout, autant chez les personnes qui n'ont pas vraiment d'avis sur la question que chez celles qui sont, par principe, en faveur de ou opposées à l'IA.
+Le second sentiment que j'entends trop souvent pour pouvoir l'ignorer s'exprime généralement sous la forme d'un sommaire "de toute façon, l'IA est déjà là". Sous-entendu, tant pis ; puisque les autres le font, alors je vais m'y mettre aussi pour ne pas être laissé sur la touche. Ce sentiment semble exister partout, autant chez les personnes qui n'ont pas vraiment d'avis sur la question que chez celles qui sont, par principe, en faveur de ou opposées à l'IA.
 
-Le camp de l'opposition apparait souvent poussé par le fatalisme ou la pression (voire l'obligation) extérieure, quand il ne rejoint pas carrément le camp qui est en faveur de l'IA dans une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique. Le troisième camp, enfin, semble quant à lui suivre une forme de [principe de moindre effort](https://fr.wikipedia.org/wiki/Principe_du_moindre_effort) : puisque tout le monde parle d'IA et puisqu'elle m'évite de devoir faire moi-même mes recherches Google, alors autant l'utiliser.
+Le camp de l'opposition apparaît souvent poussé par le fatalisme ou la pression (voire l'obligation) extérieure, quand il ne rejoint pas carrément le camp qui est en faveur de l'IA dans une sorte de [syndrome FOMO](https://fr.wikipedia.org/wiki/Syndrome_FOMO) déguisé en pragmatisme de circonstance bien pratique. Le troisième camp, enfin, semble quant à lui suivre une forme de [principe de moindre effort](https://fr.wikipedia.org/wiki/Principe_du_moindre_effort) : puisque tout le monde parle d'IA et puisqu'elle m'évite de devoir faire moi-même mes recherches Google, alors autant l'utiliser.
 
 Dans tous les cas, il semblerait que les personnes qui suivent ces approches acceptent bien plus que la simple _existence_ de l'IA, mais également son _utilité_. Or, il est loin d'être certain que les avantages potentiels des LLMs en vaillent la peine. Et quand bien même ce serait le cas pour certaines personnes ou certaines professions, nous pourrions très bien estimer que le prix à payer collectivement pour le bénéfice de quelques-uns est trop élevé. En effet, ce n'est pas comme si l'IA avait fait la preuve de sa capacité à améliorer notre existence collective.
 
@@ -57,8 +55,8 @@ En attendant, qui nous dit que nous sommes dans l'obligation d'utiliser une tech
 
 
 [^title]: Tel que "Oui j'ai des objections à l'utilisation de LLMs mais pas par anti-technologisme primaire ou esprit de contradiction, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons", par exemple.
-[^IA]: Oui je vais reprendre le language courant et dire "IA" pour "IA générative" ou "LLM". Déso pas déso.
-[^écologie]: Dont je ne peux pas m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_.
+[^IA]: Oui je vais reprendre le langage courant et dire "IA" pour "IA générative" ou "LLM". Déso pas déso.
+[^écologie]: Dont je ne peux m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_.
 [^mensonges]: On y reviendra.
 [^intelligence]: Oui il y aura toujours des nouvelles idées et des personnes intelligentes. Mais ce sera peut-être malgré l'IA et non grâce à elle, de la même façon qu'il y a toujours aujourd'hui des personnes douées en calcul mental malgré la présence de calculatrices toujours à portée de main sur nos téléphones.
 [^break]: Littéralement "_Agir vite et casser des trucs_"
