@@ -6,20 +6,18 @@ draft = true
 
 > Foreword: this article probably doesn't reflect what I think very well, or at least it doesn't reflect the entirety of what I think. Yet here it is, as a snapshot of my current thoughts. Although I don't believe I will disown them very soon - if ever -, they will probably keep evolving. Please keep this in mind while reading.
 
-The title of this article may look like a joke to you, but know that it is, in fact, not a joke. It is merely a way to indirectly summarize what would have been an honest title[^title]
+The title of this article may look like a joke to you, but know that it is, in fact, not a joke. It is merely a way to somewhat summarize what would have been an honest title[^title]
 
 However, it probably warrants some precisions before we really get going.
-So let's  
+So let's just say that when the title says "AI", it actually means the current batch of "generative AI": [LLMs](https://en.wikipedia.org/wiki/Large_language_model) (Large Language Models, like ChatGPT). Let's also say that, because AI[^AI] doesn't have a conscience and is incapable of reasoning, it can't be "anti" anything. Lastly, please know that I do not think so highly of myself that I would believe that an AI - even an actually intelligent one - could be anti "me" personally. But I do believe that AI poses significant problems, problems we should be solving _before_ we use try push AI into every part of everyone's life.
 
-[^title]: Such as "Yes I do have some objections to the use of AI, not because I am against technology or a contrarian, but because generative AI such as it exists today is either dangerous or, at best, doing us a disservice", for example.
+## AI's biggest problem is that it has so many
+
+It is immediately clear, when taking a critical look at AI, that it has many negative impacts on many different areas of many different people's life. The most discussed of those problems are probably it's ecological impact[^ecology], the fact that it replaces or devalues certain jobs, and the general plundering of data, with no respect for copyright or privacy, that sustains it. One might also think about the current debate on wether LLMs actually make us more productive or not, the fact that the whole industry was mostly built on lies[^lies], or the long-term risks on our ability to learn that AI poses, among other topics. Yet as interesting and valid as all of those subjects are, I would like to touch on a slighly different one.
+
+As someone who regularly tries to discuss AI[^discuss] with any and all people who are willing to, I can't help but feel that most people who use LLMs mostly know about all the problems mentioned above. It just isn't enough to stop them from using their favorite chatbot. Why is that? Are we so used to hearing about our negative ecological impact that it 
 
 
-En revanche, il vrai que qu'il nécessite probablement quelques précisions avant de rentrer dans le vif du sujet.
-Précisons donc d'abord que l'IA, ici, est évidemment entendue comme comprenant uniquement l'IA dite "générative", et seulement dans son implémentation courante (les [LLMs](https://fr.wikipedia.org/wiki/Grand_mod%C3%A8le_de_langage), ou Grands Modèles de Langage, comme ChatGPT). Précisons encore que, puisque l'IA[^IA] n'est douée ni de conscience ni de raison, elle ne peut être "anti" quoi que ce soit. Précisons enfin que je ne suis pas présomptueux au point de penser qu'une IA, même intelligente, serait contre "moi" spécifiquement ; mais je crois que l'IA pose des problèmes significatifs qui, tant qu'ils n'auront pas été résolus, devraient nous inciter à restreindre son utilisation.
-
-## Le plus gros problème de l'IA, c'est qu'elle les cumule
-
-De nombreux problèmes apparaissent très rapidement lorsque l'on s'intéresse à la critique de l'IA. Pour ne citer que les plus en vogue, on pourrait évoquer son impact écologique[^écologie], le fait qu'elle remplacerait ou précariserait certains métiers, ainsi qu'un pillage de données ignorant souvent toute notion de droit d'auteur. On pourrait y ajouter le débat sur l'efficacité réelle des LLMs censés booster notre productivité, le fait que l'industrie se soit largement bâtie sur des mensonges[^mensonges], ou encore les risques à long-terme sur l'apprentissage, entre autres. Mais, aussi valides à soulever que soient chacun de ces points, j'aimerais ici proposer un angle légèrement différent.
 
 Car, en discutant régulièrement du sujet, j'ai l'impression que la plupart des personnes qui utilisent l'IA ont tout à fait conscience, au fond, de la plupart de ces problèmes. Cela ne suffit juste pas à les empêcher de se servir de leur LLM favori. Pourquoi ? Est-ce que nous avons été collectivement habitués à entendre que nos comportements nuisaient à l'écologie, au point de nous désensibiliser du sujet ? Est-ce qu'encore une fois, ce qui se déroule ailleurs que littéralement sous nos yeux est trop difficile à appréhender ? Est-ce que l'espoir de gains personnels fabuleux éclipse tout sentiment moral ?
 
@@ -60,9 +58,12 @@ En attendant, qui nous dit que nous sommes dans l'obligation d'utiliser une tech
 "_Move fast and break things_"[^break], officiellement la devise de Facebook jusqu'en 2014, est un objectif entendable lorsqu'il s'agit de développer un site internet rapidement et de corriger ses bugs plus tard. Ce n'est définitivement pas souhaitable lorsque la rapidité consiste à être toujours en avance sur les régulations gouvernementales et que ce sont des vies qui sont brisées. Il n'est pas trop tard pour ralentir, voire faire pause, et choisir consciemment ce dont nous voulons ou non.
 
 
-[^title]: Tel que "Oui j'ai des objections à l'utilisation de LLMs mais pas par anti-technologisme primaire ou esprit de contradiction, juste parce que l'IA générative telle qu'elle existe aujourd'hui nous nuit collectivement de plusieurs façons", par exemple.
-[^IA]: Oui je vais reprendre le langage courant et dire "IA" pour "IA générative" ou "LLM". Déso pas déso.
-[^écologie]: Dont je ne peux m'empêcher de dire deux mots : ce n'est pas parce que son impact est moindre que d'autres industries qu'il est automatiquement acceptable. C'est un poids supplémentaire sur notre empreinte environnementale, poids qui ne saurait être justifié par la seule chose que l'IA sait produire en masse de façon fiable : le _[slop](https://fr.wikipedia.org/wiki/Slop_(intelligence_artificielle))_.
-[^mensonges]: On y reviendra.
+[^title]: Such as "Yes I do have some objections to the use of AI, not because I am against technology or a contrarian, but because generative AI such as it exists today is either dangerous or, at best, doing us a disservice", for example.
+[^AI]: Yes I will be writing "AI" instead of "generative AI" or "LLMs". Sorry not sorry.
+[^ecology]: Yes it has a lower impact than other industries, but that doesn't make it automatically acceptable. It's still an additional weight on our global carbon footprint, which cannot be justified by the only thing it actually mass produces : _[slop](https://en.wikipedia.org/wiki/AI_slop)_.
+[^lies]: We'll get back to those.
+[^discuss]: Even though I can't really recommend it, to be fair.
+
+
 [^intelligence]: Oui il y aura toujours des nouvelles idées et des personnes intelligentes. Mais ce sera peut-être malgré l'IA et non grâce à elle, de la même façon qu'il y a toujours aujourd'hui des personnes douées en calcul mental malgré la présence de calculatrices toujours à portée de main sur nos téléphones.
 [^break]: Littéralement "_Agir vite et casser des trucs_"
