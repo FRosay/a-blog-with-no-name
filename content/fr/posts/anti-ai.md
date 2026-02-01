@@ -1,6 +1,6 @@
 +++
 title = "Ce n'est pas moi qui suis anti-IA, c'est l'IA qui est anti-moi"
-date = '2026-01-19T12:00:00+01:00'
+date = '2026-02-01T19:00:00+01:00'
 draft = true
 +++
 
