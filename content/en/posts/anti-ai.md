@@ -1,7 +1,6 @@
 +++
 title = "I am not anti-AI, it's AI that is anti-me"
-date = '2026-02-01T19:00:00+01:00'
-draft = true
+date = '2026-02-03T13:00:00+01:00'
 +++
 
 > Foreword: this article probably doesn't reflect what I think very well, or at least it doesn't reflect the entirety of what I think. Yet here it is, as a snapshot of my current thoughts. Although I don't believe I will disown them very soon - if ever -, they will probably keep evolving. Please keep this in mind while reading. (Also english is not my first language, so there's that too.)

@@ -1,7 +1,6 @@
 +++
 title = "Ce n'est pas moi qui suis anti-IA, c'est l'IA qui est anti-moi"
-date = '2026-02-01T19:00:00+01:00'
-draft = true
+date = '2026-02-03T13:00:00+01:00'
 +++
 
 > Avant-propos : ce texte ne reflète probablement ni très bien ni dans son entièreté ce que je pense de l'IA générative, mais le voici. Il n'est qu'un instantané d'une pensée que j'espère amenée à évoluer, même si je doute d'en renier l'essence de sitôt. Je vous invite à le lire comme tel.
