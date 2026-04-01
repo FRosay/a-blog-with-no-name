@@ -59,6 +59,10 @@ defaultContentLanguageInSubdir = false
     """
 
   [[languages.fr.params.socialIcons]]
+    name = "kofi"
+    url = "https://ko-fi.com/flixeroo"
+
+  [[languages.fr.params.socialIcons]]
     name = "github"
     url = "https://github.com/FRosay"
 
@@ -110,6 +114,10 @@ defaultContentLanguageInSubdir = false
     It makes me feel honoured, proud, but honestly also a bit worried too. I hope you'll like it here: although there's not much at the moment, \
     I truly plan on making this place as cosy and welcoming as a digital blog - or garden, as is the trend - can be. \
     """
+
+  [[languages.en.params.socialIcons]]
+    name = "kofi"
+    url = "https://ko-fi.com/flixeroo"
 
   [[languages.en.params.socialIcons]]
     name = "github"
