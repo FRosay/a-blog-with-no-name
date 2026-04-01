@@ -24,11 +24,13 @@ But however pissed I may be, scolding and policing people around me who use any 
 
 ## But that doesn't mean using is always bad
 
-Because all of the above being said, let's not fall into the "people who participate in something are banned from trying to make it better" trap (see [Mister Gotcha](https://thenib.com/mister-gotcha/) for a funnier version). Generative AI is a highly flawed technology that deserves utmost criticism, but this is more or less true of a lot of other things, **and we still use those other things**.
+All of the above being said, let's not fall into the "people who participate in something are bad and banned from trying to make it better" trap (see [Mister Gotcha](https://thenib.com/mister-gotcha/) for a funnier version). Generative AI is a highly flawed technology that deserves utmost criticism, but this is more or less true of a lot of other things, **and we still use those other things**.
 
 Morally speaking, you will have to make exceptions for things other than AI. But even if that isn't enough for you (even though it probably should be)[^insist], I think it is still a bad strategy, politically speaking.
 
-Think about it: a lot of people are not as informed as you might be about AI and the politics of it. Sure they're annoyed at the slop or don't want to use it so much at work, but maybe they see it as just a boring new technology: some people are hyped, some people want to go back to before it existed, and we couldn't afford it without exploiting poorer countries. What's new? So maybe they still use it from time to time: *hey ChatGPT, can you draw me as a Ghibli character?* - *Hey Sora, care to generate me slapping my boss?* And so what? Are you so mad at them 
+Think about it: a lot of people are not as informed as you might be about AI and the politics of it. Sure they're annoyed at the slop or don't want to use it so much at work, but maybe they see it as just a boring new technology: some people are hyped, some people want to go back to before it existed, and we couldn't afford it without exploiting poorer countries. What's new? So maybe they still use it from time to time: *hey ChatGPT, can you draw me as a Ghibli character?* - *Hey Sora, care to generate me slapping my boss?* And so what? Are you now so mad at them you'll just stop talking to them?!
+
+And even if they know? Well I'm quite sympathetic 
 
 ## Your relatives are probably the wrong target for your anger
 
