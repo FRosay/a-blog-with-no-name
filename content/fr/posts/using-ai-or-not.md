@@ -26,20 +26,28 @@ Pourtant, aussi saoulé que je puisse être, je crois que faire la morale aux ge
 
 ## Mais ça ne veut pas dire que c'est toujours nul de l'utiliser
 
-Gardons-nous bien en effet de tomber dans le piège de croire que toute personne qui participe à un système mauvais est non seulement mauvaise à son tour, mais aussi interdite d'essayer d'améliorer ledit système ()
+Gardons-nous bien en effet de tomber dans le piège de croire que toute personne qui participe à un système mauvais est non seulement mauvaise à son tour, mais aussi interdite d'essayer d'améliorer ledit système (voir [Mister Gotcha](https://thenib.com/mister-gotcha/) pour une version plus drôle). L'IA générative est une technologie éminnemment imparfaite et critiquable, mais on pourrait en dire autant d'un certain nombre d'autres outils, **y compris parmi ceux que l'on utilise quotidiennement**. 
 
-All of the above being said, let's not fall into the "people who participate in something are bad and banned from trying to make it better" trap (see [Mister Gotcha](https://thenib.com/mister-gotcha/) for a funnier version). Generative AI is a highly flawed technology that deserves utmost criticism, but this is more or less true of a lot of other things, **and we still use those other things**.
+Si notre argument reste purement moral, alors il faut accepter de l'étendre aux autres gadgets dans notre vie, et se rendre compte qu'on ne souhaite pas l'appliquer aussi durement. Mais même si cela ne vous suffisait pas (alors que ça devrait probablement)[^insistance], alors entendez que c'est aussi tout simplement une mauvaise stratégie politique.
 
-Morally speaking, you will have to make exceptions for things other than AI. But even if that isn't enough for you (even though it probably should be)[^insist], I think it is still a bad strategy, politically speaking.
+Il y a plein de raisons à cela : de nombreuses personnes ne sont tout simplement pas particulièrement informées, par exemple. Sans être pro-IA, elles ne voient peut-être là rien de plus qu'une banale nouvelle invention, dans laquelle certaines personnes sont super _hypées_, d'autres voudraient revenir au bon vieux temps, et qui globalement n'existe toujours que parce que nos pays riches peuvent en exploiter des plus pauvres. Rien de nouveau sous le soleil. Alors peut-être que ces personnes, de temps en temps, vont demander à ChatGPT de les dessiner à la façon de Ghibli. Ou demander à Sora de générer une vidéo d'eux giflant leur patron, pour se défouler.
 
-Think about it: a lot of people are not as informed as you might be about AI and the politics of it. Sure they're annoyed at the slop or don't want to use it so much at work, but maybe they see it as just a boring new technology: some people are hyped, some people want to go back to before it existed, and we couldn't afford it without exploiting poorer countries. What's new? So maybe they still use it from time to time: *hey ChatGPT, can you draw me as a Ghibli character?* - *Hey Sora, care to generate me slapping my boss?* And so what? Are you now so mad at them you'll just stop talking to them?!
+Et quoi ? Est-ce qu'il faudrait les gronder comme des enfants voire arrêter de leur parler pour autant ? 
 
-Your relatives and friends are probably the wrong target for your anger, justifiable as it may be. Alienating them is not helping them (or your cause). That's not to say you shouldn't do anything, of course.
+Vos proches et même vos connaissances ne sont probablement pas le cible idéale de votre colère, aussi justifiée soit-elle. Vous les aliéner aura peu de chances de servir votre cause. Pour autant, cela ne veut pas dire qu'il ne faut rien à faire
 
-## So what do we do?
+## Alors que faire ?
 
-Organize! Or as Cory Doctorow puts it: seize the means of computation! 
+S'organiser ! Ou, comme le dit si bien Cory Doctorow : saisir les moyens d'informatisation[^saisir] !
 
+Comme tant d'autres, vous pouvez vous aussi refuser le projet des vendeurs d'IA. Pas en demandant à vos pairs d'être moralement purs et bons, ni en faisant bien attention à faire le choix du moindre mal comme si c'était suffisant. Si vous voulez agir[^agir], alors exprimez-vous publiquement ! Dites haut et fort ce que vous pensez de l'IA
+
+
+Tell people what you really think about AI, but more importantly show them that you are actually on the same side. That they too can speak out without fear of being shamed by some AI-boosting collegue, or retaliated against by their employer. That you're doing this because you care about everyone, including them.
+
+Remember where your anger should be directed: towards the clique of con artists and liars who are still, to this day, gaslighting everyone they can about the supposed "miracle of AI". This isn't event their last scam. And we should [Never Forget What They've Done](https://www.wheresyoured.at/never-forget-what-theyve-done/).
 
 [^vie]: Probablement en tout cas. Non je n'ai pas vérifié. C'est juste que les smartphones sont plus jeunes que moi, et que ça me déprimerait d'apprendre que la plupart des gens en vie sont aussi plus jeunes que moi. 
-[^insist]: I insist: it should be enough.
+[^insistance]: J'insiste : ça devrait probablement déjà suffir.
+[^saisir]: Ce qui ne sonne pas très bien, je suis d'accord. Le slogan original est "_seize the means of computation_", où _computation_ signifierait littéralement _calcul_. J'ai tenté ici une traduction un peu rapide, mais je prends toute proposition d'amélioration.
+[^agir]: Je ne dis pas que vous _devez_ agir, même si je crois effectivement que ce serait une bonne chose.

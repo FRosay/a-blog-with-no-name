@@ -32,11 +32,16 @@ Morally speaking, you will have to make exceptions for things other than AI. But
 
 Think about it: a lot of people are not as informed as you might be about AI and the politics of it. Sure they're annoyed at the slop or don't want to use it so much at work, but maybe they see it as just a boring new technology: some people are hyped, some people want to go back to before it existed, and we couldn't afford it without exploiting poorer countries. What's new? So maybe they still use it from time to time: *hey ChatGPT, can you draw me as a Ghibli character?* - *Hey Sora, care to generate me slapping my boss?* And so what? Are you now so mad at them you'll just stop talking to them?!
 
-Your relatives and friends are probably the wrong target for your anger, justifiable as it may be. Alienating them is not helping them (or your cause). That's not to say you shouldn't do anything, of course.
+Your relatives and friends are probably the wrong target for your anger, justified as it may be. Alienating them is not helping them (or your cause). That's not to say you shouldn't do anything, of course.
 
 ## So what do we do?
 
-Organize! Or as Cory Doctorow puts it: seize the means of computation! 
+Organize! Or as Cory Doctorow puts it: seize the means of computation!
+
+Like so many people, [you can refuse AI](https://www.bloodinthemachine.com/p/its-open-season-for-refusing-ai). Not by asking your equals to be morally pure and good, and not by simply "shopping carfully" and picking the lesser evil like it's going to matter. If you want to act[^act], then speak up! Tell people what you really think about AI, but more importantly show them that you are actually on the same side. That they too can speak out without fear of being shamed by some AI-boosting collegue, or retaliated against by their employer. That you're doing this because you care about everyone, including them.
+
+Remember where your anger should be directed: towards the clique of con artists and liars who are still, to this day, gaslighting everyone they can about the supposed "miracle of AI". This isn't event their last scam. And we should [Never Forget What They've Done](https://www.wheresyoured.at/never-forget-what-theyve-done/).
 
 [^alive]: Probably. I didn't check, OK? But smartphones are younger than me, and it would bum me out to find that most people alive are also younger than me. 
 [^insist]: I insist: it should be enough.
+[^act]: I'm not saying you _have to_, although I do believe you should.
