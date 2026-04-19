@@ -10,7 +10,7 @@ The topic at hand is, again, AI. And more specifically the following question: s
 
 I obviously won't even pretend to cover all of this perfectly by myself, but this subject has got me thinking for a while, so I thought I might as well lay it down properly.
 
-## AI is bad, obviously
+## AI is _bad_, obviously
 
 It should really go without saying, at this point, that AI (and specifically generative AI) has done a lot of harm. I've [written about it](../anti-ai/) before, as did many smarter and more eloquent people. AI uses a lot of water and energy, is dependent on underpaid work from poor countries, can reinforce biases or be responsible for cognitive harms, etc. etc. (see [this site](https://anthonymoser.github.io/writing/ai/haterdom/2025/08/26/i-am-an-ai-hater.html) for a quick rundown).
 
@@ -22,7 +22,7 @@ A slightly better answer, I think, is that AI pissed everyone off. It is at best
 
 But however pissed I may be, scolding and policing people around me who use any amount of AI is not a good — or viable — answer.
 
-## But that doesn't mean using it is always bad
+## But that doesn't mean using it is _always_ bad
 
 All of the above being said, let's not fall into the "people who participate in something are bad and banned from trying to make it better" trap (see [Mister Gotcha](https://thenib.com/mister-gotcha/) for a funnier version). Generative AI is a highly flawed technology that deserves utmost criticism, but this is more or less true of a lot of other things, **and we still use those other things**. So why not use AI?
 
