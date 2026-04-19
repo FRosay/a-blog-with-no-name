@@ -1,7 +1,6 @@
 +++
 title = "Utiliser ou ne pas utiliser l'IA"
-date = '2026-03-03T13:00:00+01:00'
-draft = true
+date = '2026-04-19T18:00:00+01:00'
 +++
 
 Aujourd'hui, j'aimerais parler un peu d'une conversation qui a eu lieu récemment entre [Cory Doctorow](https://pluralistic.net/) et tante (du blog [Smashing Frames](https://tante.cc/)). Mais même si la conversation en elle-même reste intéressante (vous pouvez en lire les quatre articles ici : [1](https://pluralistic.net/2026/02/19/now-we-are-six/), [2](https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/), [3](https://pluralistic.net/2026/03/17/technopolitics/) and [4](https://tante.cc/2026/02/20/on-alliances/)), c'est plutôt sur son sujet que je voudrais me pencher, car il m'intéresse depuis un moment.

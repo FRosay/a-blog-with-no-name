@@ -1,7 +1,6 @@
 +++
 title = "To use or not to use AI"
-date = '2026-03-03T13:00:00+01:00'
-draft = true
+date = '2026-04-19T18:00:00+01:00'
 +++
 
 Today I'd like to talk a bit about a conversation of sorts that happened recently between [Cory Doctorow](https://pluralistic.net/) and tante (from [Smashing Frames](https://tante.cc/)). Actually it's not really about the conversation, although I do recommend it (there are four articles: [1](https://pluralistic.net/2026/02/19/now-we-are-six/), [2](https://tante.cc/2026/02/20/acting-ethical-in-an-imperfect-world/), [3](https://pluralistic.net/2026/03/17/technopolitics/) and [4](https://tante.cc/2026/02/20/on-alliances/)), but rather its subject.
