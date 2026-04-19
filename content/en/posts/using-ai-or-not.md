@@ -1,5 +1,5 @@
 +++
-title = "To use or not to use AI"
+title = "AI: don't shoot the user"
 date = '2026-04-19T18:00:00+01:00'
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "Utiliser ou ne pas utiliser l'IA"
+title = "IA : ne tirez pas sur l'utilisateur"
 date = '2026-04-19T18:00:00+01:00'
 +++
 
